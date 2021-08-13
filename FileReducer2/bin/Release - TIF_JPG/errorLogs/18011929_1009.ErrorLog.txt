@@ -1,0 +1,1020 @@
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Entrance 11 23 17.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion Entrance 11-26-17.Alpha.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion Entrance 11-26-17.effectsResult.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion Entrance 11-26-17.RGB_color.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion Entrance 11-26-17.VRayAtmosphere.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion Entrance 11-26-17.VRayDiffuseFilter.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion Entrance 11-26-17.VRayGlobalIllumination.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion Entrance 11-26-17.VRayIlluminance.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion Entrance 11-26-17.VRayLighting.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion Entrance 11-26-17.VRayLightSelect.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion Entrance 11-26-17.VRayMatteShadow.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion Entrance 11-26-17.VRayMtlID.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion Entrance 11-26-17.VRayMtlReflectGlossiness.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion Entrance 11-26-17.VRayMtlReflectHilightGlossiness.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion Entrance 11-26-17.VRayMtlReflectIOR.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion Entrance 11-26-17.VRayMtlRefractGlossiness.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion Entrance 11-26-17.VRayMtlSelect.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion Entrance 11-26-17.VRayNoiseLevel.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion Entrance 11-26-17.VRayNormals.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion Entrance 11-26-17.VRayObjectID.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion Entrance 11-26-17.VRayObjectSelect.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion Entrance 11-26-17.VRayRawDiffuseFilter.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion Entrance 11-26-17.VRayRawGlobalIllumination.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion Entrance 11-26-17.VRayRawLighting.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion Entrance 11-26-17.VRayRawReflection.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion Entrance 11-26-17.VRayRawReflectionFilter.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion Entrance 11-26-17.VRayRawRefraction.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion Entrance 11-26-17.VRayRawRefractionFilter.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion Entrance 11-26-17.VRayRawShadow.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion Entrance 11-26-17.VRayRawTotalLighting.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion Entrance 11-26-17.VRayReflection.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion Entrance 11-26-17.VRayReflectionFilter.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion Entrance 11-26-17.VRayRefraction.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion Entrance 11-26-17.VRayRefractionFilter.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion Entrance 11-26-17.VRayRenderID.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion Entrance 11-26-17.VRaySamplerInfo.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion Entrance 11-26-17.VRaySelfIllumination.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion Entrance 11-26-17.VRayShadows.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion Entrance 11-26-17.VRaySpecular.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion Entrance 11-26-17.VRayTotalLighting.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion Entrance 11-26-17.VRayUnclampedColor.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion Entrance 11-26-17.VRayVelocity.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion Entrance 11-26-17.VRayWireColor.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion Entrance 11-26-17.VRayZDepth.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion Aerial 11-26-17.Alpha.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion Aerial 11-26-17.RGB_color.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion Aerial 11-26-17.VRayAtmosphere.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion Aerial 11-26-17.VRayDiffuseFilter.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion Aerial 11-26-17.VRayGlobalIllumination.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion Aerial 11-26-17.VRayIlluminance.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion Aerial 11-26-17.VRayLighting.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion Aerial 11-26-17.VRayLightSelect.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion Aerial 11-26-17.VRayMatteShadow.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion Aerial 11-26-17.VRayMtlID.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion Aerial 11-26-17.VRayMtlReflectGlossiness.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion Aerial 11-26-17.VRayMtlReflectHilightGlossiness.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion Aerial 11-26-17.VRayMtlReflectIOR.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion Aerial 11-26-17.VRayMtlRefractGlossiness.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion Aerial 11-26-17.VRayMtlSelect.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion Aerial 11-26-17.VRayNormals.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion Aerial 11-26-17.VRayObjectID.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion Aerial 11-26-17.VRayObjectSelect.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion Aerial 11-26-17.VRayRawGlobalIllumination.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion Aerial 11-26-17.VRayRawLighting.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion Aerial 11-26-17.VRayRawReflection.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion Aerial 11-26-17.VRayRawRefraction.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion Aerial 11-26-17.VRayRawShadow.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion Aerial 11-26-17.VRayRawTotalLighting.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion Aerial 11-26-17.VRayReflection.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion Aerial 11-26-17.VRayReflectionFilter.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion Aerial 11-26-17.VRayRefraction.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion Aerial 11-26-17.VRayRefractionFilter.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion Aerial 11-26-17.VRayRenderID.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion Aerial 11-26-17.VRaySamplerInfo.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion Aerial 11-26-17.VRaySelfIllumination.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion Aerial 11-26-17.VRayShadows.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion Aerial 11-26-17.VRaySpecular.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion Aerial 11-26-17.VRayTotalLighting.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion Aerial 11-26-17.VRayUnclampedColor.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion Aerial 11-26-17.VRayVelocity.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion Aerial 11-26-17.VRayWireColor.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion Aerial 11-26-17.VRayZDepth.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion_Station.Alpha.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion_Station.RGB_color.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion_Station.VRayAtmosphere.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion_Station.VRayDiffuseFilter.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion_Station.VRayGlobalIllumination.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion_Station.VRayIlluminance.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion_Station.VRayLighting.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion_Station.VRayLightSelect.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion_Station.VRayMatteShadow.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion_Station.VRayMtlID.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion_Station.VRayMtlReflectGlossiness.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion_Station.VRayMtlReflectHilightGlossiness.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion_Station.VRayMtlReflectIOR.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion_Station.VRayMtlRefractGlossiness.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion_Station.VRayMtlSelect.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion_Station.VRayNormals.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion_Station.VRayObjectID.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion_Station.VRayObjectSelect.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion_Station.VRayRawGlobalIllumination.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion_Station.VRayRawLighting.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion_Station.VRayRawReflection.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion_Station.VRayRawRefraction.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion_Station.VRayRawShadow.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion_Station.VRayRawTotalLighting.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion_Station.VRayReflection.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion_Station.VRayReflectionFilter.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion_Station.VRayRefraction.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion_Station.VRayRefractionFilter.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion_Station.VRayRenderID.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion_Station.VRaySamplerInfo.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion_Station.VRaySelfIllumination.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion_Station.VRayShadows.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion_Station.VRaySpecular.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion_Station.VRayTotalLighting.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion_Station.VRayUnclampedColor.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion_Station.VRayVelocity.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion_Station.VRayWireColor.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion_Station.VRayZDepth.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion_Site_Simple_2017-11-29B.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion_Site_Simple_2017-11-29D.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion_Site_Simple_2017-11-29E.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\5k_Dominion_Aerial_2017-12-14.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\5k_Dominion_Concourse_2017-12-14.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\5k_Dominion_Dusk_2017-12-14.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\5k_Dominion_Entrance_2017-12-14.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\5k_Dominion_Lobby_2017-12-14.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\5k_Dominion_Lobby_2017-12-14_VRayLighting.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\5k_Dominion_Lobby_2017-12-14_VRayRawGlobalIllumination.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\5k_Dominion_Lobby_2017-12-14_VRayRawLighting.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\5k_Dominion_Lobby_2017-12-14_VRayRawReflection.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\5k_Dominion_Lobby_2017-12-14_VRayRawRefraction.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\5k_Dominion_Lobby_2017-12-14_VRayRawShadow.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\5k_Dominion_Lobby_2017-12-14_VRayRenderID.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\5k_Dominion_Lobby_2017-12-14_VRayWireColor.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\5k_Dominion_Lobby_2017-12-14_VRayZDepth.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\5k_Dominion_Platform_2017-12-14.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\2k_Dominion_Context_Test_2017-12-14.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\2k_Dominion_Context_Test_2017-12-14_VRayRenderID.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\2k_Dominion_Aerial.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\2k_Dominion_Concourse.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\2k_Dominion_Entrance.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\2k_Dominion_Lobby.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\2k_Dominion_Platform.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\5k_Dominion_Concourse_2017-12-20B.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\5k_Dominion_Concourse_2017-12-20B_VRayGlobalIllumination.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\5k_Dominion_Concourse_2017-12-20B_VRayLighting.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\5k_Dominion_Concourse_2017-12-20B_VRayRawGlobalIllumination.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\5k_Dominion_Concourse_2017-12-20B_VRayRawLighting.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\5k_Dominion_Concourse_2017-12-20B_VRayRawReflection.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\5k_Dominion_Concourse_2017-12-20B_VRayRawRefraction.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\5k_Dominion_Concourse_2017-12-20B_VRayRawShadow.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\5k_Dominion_Concourse_2017-12-20B_VRayReflection.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\5k_Dominion_Concourse_2017-12-20B_VRayRefraction.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\5k_Dominion_Concourse_2017-12-20B_VRayShadows.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\5k_Dominion_Concourse_2017-12-20B_VRaySpecular.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\5k_Dominion_Concourse_2017-12-20B_VRayWireColor.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\5k_Dominion_Concourse_2017-12-20B_VRayZDepth.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\5k_Dominion_Entrance_2017-12-20B.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\5k_Dominion_Entrance_2017-12-20B_VRayGlobalIllumination.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\5k_Dominion_Entrance_2017-12-20B_VRayLighting.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\5k_Dominion_Entrance_2017-12-20B_VRayRawGlobalIllumination.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\5k_Dominion_Entrance_2017-12-20B_VRayRawLighting.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\5k_Dominion_Entrance_2017-12-20B_VRayRawReflection.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\5k_Dominion_Entrance_2017-12-20B_VRayRawRefraction.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\5k_Dominion_Entrance_2017-12-20B_VRayRawShadow.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\5k_Dominion_Entrance_2017-12-20B_VRayReflection.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\5k_Dominion_Entrance_2017-12-20B_VRayRefraction.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\5k_Dominion_Entrance_2017-12-20B_VRayShadows.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\5k_Dominion_Entrance_2017-12-20B_VRaySpecular.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\5k_Dominion_Entrance_2017-12-20B_VRayWireColor.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\5k_Dominion_Entrance_2017-12-20B_VRayZDepth.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\5k_Dominion_Lobby_2017-12-20B.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\5k_Dominion_Lobby_2017-12-20B_VRayGlobalIllumination.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\5k_Dominion_Lobby_2017-12-20B_VRayLighting.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\5k_Dominion_Lobby_2017-12-20B_VRayRawGlobalIllumination.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\5k_Dominion_Lobby_2017-12-20B_VRayRawLighting.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\5k_Dominion_Lobby_2017-12-20B_VRayRawReflection.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\5k_Dominion_Lobby_2017-12-20B_VRayRawRefraction.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\5k_Dominion_Lobby_2017-12-20B_VRayRawShadow.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\5k_Dominion_Lobby_2017-12-20B_VRayReflection.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\5k_Dominion_Lobby_2017-12-20B_VRayRefraction.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\5k_Dominion_Lobby_2017-12-20B_VRayShadows.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\5k_Dominion_Lobby_2017-12-20B_VRaySpecular.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\5k_Dominion_Lobby_2017-12-20B_VRayWireColor.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\5k_Dominion_Lobby_2017-12-20B_VRayZDepth.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\5k_Dominion_Platform_2017-12-20B.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\5k_Dominion_Platform_2017-12-20B_VRayGlobalIllumination.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\5k_Dominion_Platform_2017-12-20B_VRayLighting.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\5k_Dominion_Platform_2017-12-20B_VRayRawGlobalIllumination.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\5k_Dominion_Platform_2017-12-20B_VRayRawLighting.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\5k_Dominion_Platform_2017-12-20B_VRayRawReflection.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\5k_Dominion_Platform_2017-12-20B_VRayRawRefraction.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\5k_Dominion_Platform_2017-12-20B_VRayRawShadow.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\5k_Dominion_Platform_2017-12-20B_VRayReflection.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\5k_Dominion_Platform_2017-12-20B_VRayRefraction.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\5k_Dominion_Platform_2017-12-20B_VRayShadows.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\5k_Dominion_Platform_2017-12-20B_VRaySpecular.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\5k_Dominion_Platform_2017-12-20B_VRayWireColor.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\5k_Dominion_Platform_2017-12-20B_VRayZDepth.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\5k_Dominion_Aerial.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion_Aerial.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion_Concourse.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion_Entrance.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion_Lobby.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion_Platform.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion_Platform_2017-12-20_VRayGlobalIllumination.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion_Platform_2017-12-20_VRayLighting.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion_Platform_2017-12-20_VRayRawGlobalIllumination.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion_Platform_2017-12-20_VRayRawLighting.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion_Platform_2017-12-20_VRayRawReflection.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion_Platform_2017-12-20_VRayRawRefraction.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion_Platform_2017-12-20_VRayRawShadow.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion_Platform_2017-12-20_VRayReflection.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion_Platform_2017-12-20_VRayRefraction.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion_Platform_2017-12-20_VRayShadows.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion_Platform_2017-12-20_VRaySpecular.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion_Platform_2017-12-20_VRayWireColor.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion_Platform_2017-12-20_VRayZDepth.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion_Aerial.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion_Concourse.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion_Entrance.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion_Lobby.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion_Platform.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion_Platform_2017-12-20_VRayGlobalIllumination.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion_Platform_2017-12-20_VRayLighting.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion_Platform_2017-12-20_VRayRawGlobalIllumination.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion_Platform_2017-12-20_VRayRawLighting.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion_Platform_2017-12-20_VRayRawReflection.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion_Platform_2017-12-20_VRayRawRefraction.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion_Platform_2017-12-20_VRayRawShadow.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion_Platform_2017-12-20_VRayReflection.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion_Platform_2017-12-20_VRayRefraction.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion_Platform_2017-12-20_VRayShadows.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion_Platform_2017-12-20_VRaySpecular.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion_Platform_2017-12-20_VRayWireColor.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion_Platform_2017-12-20_VRayZDepth.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion_Aerial.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion_Concourse.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion_Entrance.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion_Lobby.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion_Platform.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion_Platform_2017-12-20_VRayGlobalIllumination.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion_Platform_2017-12-20_VRayLighting.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion_Platform_2017-12-20_VRayRawGlobalIllumination.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion_Platform_2017-12-20_VRayRawLighting.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion_Platform_2017-12-20_VRayRawReflection.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion_Platform_2017-12-20_VRayRawRefraction.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion_Platform_2017-12-20_VRayRawShadow.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion_Platform_2017-12-20_VRayReflection.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion_Platform_2017-12-20_VRayRefraction.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion_Platform_2017-12-20_VRayShadows.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion_Platform_2017-12-20_VRaySpecular.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion_Platform_2017-12-20_VRayWireColor.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion_Platform_2017-12-20_VRayZDepth.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion_Aerial.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion_Concourse.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion_Entrance.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion_Lobby.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion_Platform.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion_Platform_2017-12-20_VRayGlobalIllumination.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion_Platform_2017-12-20_VRayLighting.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion_Platform_2017-12-20_VRayRawGlobalIllumination.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion_Platform_2017-12-20_VRayRawLighting.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion_Platform_2017-12-20_VRayRawReflection.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion_Platform_2017-12-20_VRayRawRefraction.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion_Platform_2017-12-20_VRayRawShadow.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion_Platform_2017-12-20_VRayReflection.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion_Platform_2017-12-20_VRayRefraction.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion_Platform_2017-12-20_VRayShadows.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion_Platform_2017-12-20_VRaySpecular.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion_Platform_2017-12-20_VRayWireColor.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion_Platform_2017-12-20_VRayZDepth.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\2k_Dominion_Concourse.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion_Aerial.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion_Concourse.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion_Entrance.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion_Lobby.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion_Platform.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion_Aerial.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion_Concourse.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion_Entrance.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion_Lobby.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion_Platform.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion_Platform_2017-12-20_VRayGlobalIllumination.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion_Platform_2017-12-20_VRayLighting.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion_Platform_2017-12-20_VRayRawGlobalIllumination.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion_Platform_2017-12-20_VRayRawLighting.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion_Platform_2017-12-20_VRayRawReflection.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion_Platform_2017-12-20_VRayRawRefraction.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion_Platform_2017-12-20_VRayRawShadow.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion_Platform_2017-12-20_VRayReflection.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion_Platform_2017-12-20_VRayRefraction.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion_Platform_2017-12-20_VRayShadows.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion_Platform_2017-12-20_VRaySpecular.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion_Platform_2017-12-20_VRayWireColor.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion_Platform_2017-12-20_VRayZDepth.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion_Concourse.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion_Entrance.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion_Platform.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion_Platform_2017-12-20_VRayGlobalIllumination.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion_Platform_2017-12-20_VRayLighting.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion_Platform_2017-12-20_VRayRawGlobalIllumination.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion_Platform_2017-12-20_VRayRawLighting.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion_Platform_2017-12-20_VRayRawReflection.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion_Platform_2017-12-20_VRayRawRefraction.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion_Platform_2017-12-20_VRayRawShadow.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion_Platform_2017-12-20_VRayReflection.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion_Platform_2017-12-20_VRayRefraction.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion_Platform_2017-12-20_VRayShadows.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion_Platform_2017-12-20_VRaySpecular.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion_Platform_2017-12-20_VRayWireColor.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion_Platform_2017-12-20_VRayZDepth.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion_Platform_2017-12-20_VRayAlpha.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion_Platform_2017-12-20_VRayGlobalIllumination.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion_Platform_2017-12-20_VRayLighting.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion_Platform_2017-12-20_VRayObjectID.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion_Platform_2017-12-20_VRayRawGlobalIllumination.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion_Platform_2017-12-20_VRayRawReflection.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion_Platform_2017-12-20_VRayRawRefraction.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion_Platform_2017-12-20_VRayReflection.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion_Platform_2017-12-20_VRayRefraction.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion_Platform_2017-12-20_VRayShadows.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion_Platform_2017-12-20_VRaySpecular.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion_Platform_2017-12-20_VRayWireColor.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion_Platform_2017-12-20_VRayZDepth.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion_Platform_2017-12-20_VRayAlpha.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion_Platform_2017-12-20_VRayGlobalIllumination.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion_Platform_2017-12-20_VRayLighting.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion_Platform_2017-12-20_VRayObjectID.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion_Platform_2017-12-20_VRayRawGlobalIllumination.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion_Platform_2017-12-20_VRayRawReflection.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion_Platform_2017-12-20_VRayRawRefraction.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion_Platform_2017-12-20_VRayReflection.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion_Platform_2017-12-20_VRayRefraction.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion_Platform_2017-12-20_VRayShadows.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion_Platform_2017-12-20_VRaySpecular.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion_Platform_2017-12-20_VRayWireColor.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578
+C:\IBI\Apps\FileReducer2\FileReducer2\bin\Release - TIF_JPG\fileConverter\Dominion_Platform_2017-12-20_VRayZDepth.tif produced the following error: System.OutOfMemoryException: Out of memory.
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at FileReducer2.Form1.fileCompressor(String fileName, Int64 compressionLevel) in C:\IBI\Apps\FileReducer2\FileReducer2\Form1.cs:line 578

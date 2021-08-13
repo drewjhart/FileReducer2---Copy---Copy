@@ -1,0 +1,7 @@
+Infected Files:
+File Name:D:\Users\andrew.hart\Desktop\test\01_tricia_v001\01_tricia_v001\01_tricia_v001.max
+-----------------------------------------------------------
+Summary:
+Total Files Scanned: 167
+Clean Files Detected: 166
+Infected Files Detected: 1

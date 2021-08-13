@@ -1,0 +1,7 @@
+Infected Files:
+File Name:D:\Users\andrew.hart\Desktop\test3\Low_Poly_People.max
+-----------------------------------------------------------
+Summary:
+Total Files Scanned: 2
+Clean Files Detected: 1
+Infected Files Detected: 1

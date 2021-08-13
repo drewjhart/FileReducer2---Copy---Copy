@@ -1,0 +1,6 @@
+-----------------------------------------------------------------------------
+File Name:I:\VIZ\4_Library\Asset Library\1_Models\0_Interior Asset\Appliance\Faucet 1\Contemporary Kitchen Collection AU_4863, AU_4843 and AU_4214\Contemporary Kitchen Collection AU_4863, AU_4843 and AU_4214\Contemporary Kitchen Collection AU_4863, AU_4843 and AU_4214.max
+Exception: 
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at FileReducer2.Form1.fileScanner(String fileName) in C:\IBI\Apps\Apps\FileReducer2 - Copy\FileReducer2\Form1.cs:line 530
+   at FileReducer2.Form1.ProcessDirectory(String targetDirectory, Int32 currentNum, Int32 totalNum, Int64 compressionLevel) in C:\IBI\Apps\Apps\FileReducer2 - Copy\FileReducer2\Form1.cs:line 401

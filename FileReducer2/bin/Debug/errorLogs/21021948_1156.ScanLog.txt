@@ -1,0 +1,9 @@
+Infected Files:
+File Name:D:\Users\andrew.hart\Desktop\test2\01_tricia_v001.max
+File Name:D:\Users\andrew.hart\Desktop\test2\badcode.max
+File Name:D:\Users\andrew.hart\Desktop\test2\rp_stephen_posed_040_30k_vray bad.max
+-----------------------------------------------------------
+Summary:
+Total Files Scanned: 8
+Clean Files Detected: 5
+Infected Files Detected: 3

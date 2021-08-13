@@ -1,0 +1,7 @@
+-----------------------------------------------------------------------------
+File Name:I:\VIZ\1_Projects\07046 Revesz-Hamburger Residence\90_Archive\max\_process\07046-3DMODEL_2009.03.17.max
+Exception: 
+System.IO.IOException: Cannot perform this function on a stream that does not exist.
+   at System.IO.Packaging.StorageInfo.GetStreamInfo(String name)
+   at FileReducer2.Form1.fileScanner(String fileName) in C:\IBI\Apps\Apps\FileReducer2 - Copy\FileReducer2\Form1.cs:line 538
+   at FileReducer2.Form1.ProcessDirectory(String targetDirectory, Int32 currentNum, Int32 totalNum, Int64 compressionLevel) in C:\IBI\Apps\Apps\FileReducer2 - Copy\FileReducer2\Form1.cs:line 409

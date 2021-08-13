@@ -1,0 +1,11 @@
+Infected Files:
+File Name:I:\VIZ\4_Library\Asset Library\1_Models\3_ArchInteriors\Archinteriors Vol.13\006\006.max
+File Name:I:\VIZ\4_Library\Asset Library\1_Models\3_ArchInteriors\Archinteriors Vol.13\006\006_draft.max
+File Name:I:\VIZ\4_Library\Asset Library\1_Models\3_ArchInteriors\Archinteriors Vol.13\010\010.max
+File Name:I:\VIZ\4_Library\Asset Library\1_Models\3_ArchInteriors\Archinteriors Vol.13\010\010_draft.max
+-----------------------------------------------------------
+Summary:
+Total Files Scanned: 12990
+Clean Files Detected: 12931
+Infected Files Detected: 4
+Errored Files Detected: 55

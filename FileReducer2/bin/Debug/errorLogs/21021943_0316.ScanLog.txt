@@ -1,0 +1,9 @@
+Infected Files:
+File Name:D:\Users\andrew.hart\Desktop\test\rp_stephen_posed_040_30k_vray bad.max
+File Name:D:\Users\andrew.hart\Desktop\test\200 Proxy Low\badcode.max
+File Name:D:\Users\andrew.hart\Desktop\test\AXYZ Design - People & Motion Capture Data\rp_stephen_posed_040_30k_vray bad.max
+-----------------------------------------------------------
+Summary:
+Total Files Scanned: 242
+Clean Files Detected: 239
+Infected Files Detected: 3

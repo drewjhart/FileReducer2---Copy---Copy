@@ -1,0 +1,6 @@
+Infected Files:
+-----------------------------------------------------------
+Summary:
+Total Files Scanned: 1073
+Clean Files Detected: 1073
+Infected Files Detected: 0

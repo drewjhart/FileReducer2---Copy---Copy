@@ -1,0 +1,7 @@
+Infected Files:
+File Name:D:\Users\andrew.hart\Desktop\test5\rp_stephen_posed_040_30k_vray bad.max
+-----------------------------------------------------------
+Summary:
+Total Files Scanned: 1
+Clean Files Detected: 0
+Infected Files Detected: 1

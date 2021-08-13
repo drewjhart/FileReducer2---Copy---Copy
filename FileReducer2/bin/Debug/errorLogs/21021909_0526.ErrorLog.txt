@@ -1,0 +1,1674 @@
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ - MeBuS0002 (People Business)\Max\BMan0006-Se.max
+File Created: 6/19/2018 2:06:21 PM
+Last Edited: 3/27/2014 7:49:24 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ - MeBuS0002 (People Business)\Max\BMan0006-St.max
+File Created: 6/19/2018 2:06:21 PM
+Last Edited: 3/27/2014 7:49:27 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ - MeBuS0002 (People Business)\Max\BMan0007-Se.max
+File Created: 6/19/2018 2:06:22 PM
+Last Edited: 3/27/2014 7:49:27 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ - MeBuS0002 (People Business)\Max\BMan0007-Wa.max
+File Created: 6/19/2018 2:06:22 PM
+Last Edited: 3/27/2014 7:49:27 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ - MeBuS0002 (People Business)\Max\BMan0008-Se.max
+File Created: 6/19/2018 2:06:22 PM
+Last Edited: 3/27/2014 7:49:27 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ - MeBuS0002 (People Business)\Max\BMan0008-St.max
+File Created: 6/19/2018 2:06:22 PM
+Last Edited: 3/27/2014 7:52:19 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ - MeBuS0002 (People Business)\Max\BMan0009-Se.max
+File Created: 6/19/2018 2:06:22 PM
+Last Edited: 3/27/2014 7:49:25 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ - MeBuS0002 (People Business)\Max\BMan0009-St.max
+File Created: 6/19/2018 2:06:22 PM
+Last Edited: 3/27/2014 7:49:25 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ - MeBuS0002 (People Business)\Max\BMan0010-Se.max
+File Created: 6/19/2018 2:06:22 PM
+Last Edited: 3/27/2014 7:52:19 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ - MeBuS0002 (People Business)\Max\BMan0010-St.max
+File Created: 6/19/2018 2:06:22 PM
+Last Edited: 3/27/2014 7:49:24 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ - MeBuS0002 (People Business)\Max\BWom0006-Se.max
+File Created: 6/19/2018 2:06:23 PM
+Last Edited: 3/27/2014 7:49:24 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ - MeBuS0002 (People Business)\Max\BWom0006-Wa.max
+File Created: 6/19/2018 2:06:23 PM
+Last Edited: 3/27/2014 7:52:20 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ - MeBuS0002 (People Business)\Max\BWom0007-St.max
+File Created: 6/19/2018 2:06:23 PM
+Last Edited: 3/27/2014 7:47:01 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ - MeBuS0002 (People Business)\Max\BWom0007-Wa.max
+File Created: 6/19/2018 2:06:23 PM
+Last Edited: 3/27/2014 7:47:01 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ - MeBuS0002 (People Business)\Max\BWom0008-Se.max
+File Created: 6/19/2018 2:06:23 PM
+Last Edited: 3/27/2014 7:47:01 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ - MeBuS0002 (People Business)\Max\BWom0008-Wa.max
+File Created: 6/19/2018 2:06:23 PM
+Last Edited: 3/27/2014 7:47:01 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ - MeBuS0002 (People Business)\Max\BWom0009-St.max
+File Created: 6/19/2018 2:06:23 PM
+Last Edited: 3/27/2014 7:47:01 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ - MeBuS0002 (People Business)\Max\BWom0009-Wa.max
+File Created: 6/19/2018 2:06:23 PM
+Last Edited: 3/27/2014 7:47:01 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ - MeBuS0002 (People Business)\Max\BWom0010-St.max
+File Created: 6/19/2018 2:06:24 PM
+Last Edited: 3/27/2014 7:47:01 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ - MeBuS0002 (People Business)\Max\BWom0010-Wa.max
+File Created: 6/19/2018 2:06:24 PM
+Last Edited: 3/27/2014 7:47:01 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ - MeBuS0002 (People Business)\Max\Copier0001.max
+File Created: 6/19/2018 2:06:24 PM
+Last Edited: 3/27/2014 7:47:01 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeBuCS001a_Rigged_Models\AXYZ - MeBuCS001a (Rigged Business)\Max\BMan0001-CS.max
+File Created: 6/19/2018 2:06:38 PM
+Last Edited: 3/27/2014 7:46:38 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeBuCS001a_Rigged_Models\AXYZ - MeBuCS001a (Rigged Business)\Max\BMan0002-CS.max
+File Created: 6/19/2018 2:06:38 PM
+Last Edited: 3/27/2014 7:46:41 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeBuCS001a_Rigged_Models\AXYZ - MeBuCS001a (Rigged Business)\Max\BMan0003-CS.max
+File Created: 6/19/2018 2:06:39 PM
+Last Edited: 3/27/2014 7:46:47 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeBuCS001a_Rigged_Models\AXYZ - MeBuCS001a (Rigged Business)\Max\BWom0001-CS.max
+File Created: 6/19/2018 2:06:39 PM
+Last Edited: 3/27/2014 7:47:44 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeBuCS001a_Rigged_Models\AXYZ - MeBuCS001a (Rigged Business)\Max\BWom0002-CS.max
+File Created: 6/19/2018 2:06:39 PM
+Last Edited: 3/27/2014 7:47:44 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeBuCS001b_Rigged_Models\AXYZ - MeBuCS001b (Rigged Business)\Max\BMan0004-CS.max
+File Created: 6/19/2018 2:06:42 PM
+Last Edited: 3/27/2014 7:48:06 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeBuCS001b_Rigged_Models\AXYZ - MeBuCS001b (Rigged Business)\Max\BMan0005-CS.max
+File Created: 6/19/2018 2:06:43 PM
+Last Edited: 3/27/2014 7:48:06 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeBuCS001b_Rigged_Models\AXYZ - MeBuCS001b (Rigged Business)\Max\BWom0003-CS.max
+File Created: 6/19/2018 2:06:43 PM
+Last Edited: 3/27/2014 7:45:23 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeBuCS001b_Rigged_Models\AXYZ - MeBuCS001b (Rigged Business)\Max\BWom0004-CS.max
+File Created: 6/19/2018 2:06:44 PM
+Last Edited: 3/27/2014 7:45:25 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeBuCS001b_Rigged_Models\AXYZ - MeBuCS001b (Rigged Business)\Max\BWom0005-CS.max
+File Created: 6/19/2018 2:06:44 PM
+Last Edited: 3/27/2014 7:48:06 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeBuS0001_Still_Models\AXYZ - MeBuS0001 (People Business)\Max\BMan0001-Se.max
+File Created: 6/19/2018 2:06:53 PM
+Last Edited: 3/27/2014 7:44:13 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeBuS0001_Still_Models\AXYZ - MeBuS0001 (People Business)\Max\BMan0001-Se_MW.max
+File Created: 6/19/2018 2:06:54 PM
+Last Edited: 3/27/2014 7:44:13 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeBuS0001_Still_Models\AXYZ - MeBuS0001 (People Business)\Max\BMan0001-St.max
+File Created: 6/19/2018 2:06:54 PM
+Last Edited: 3/27/2014 7:44:13 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeBuS0001_Still_Models\AXYZ - MeBuS0001 (People Business)\Max\BMan0001-St_MW.max
+File Created: 6/19/2018 2:06:54 PM
+Last Edited: 3/27/2014 7:44:13 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeBuS0001_Still_Models\AXYZ - MeBuS0001 (People Business)\Max\BMan0002-St.max
+File Created: 6/19/2018 2:06:54 PM
+Last Edited: 3/27/2014 7:44:13 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeBuS0001_Still_Models\AXYZ - MeBuS0001 (People Business)\Max\BMan0002-St_MW.max
+File Created: 6/19/2018 2:06:55 PM
+Last Edited: 3/27/2014 7:48:06 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeBuS0001_Still_Models\AXYZ - MeBuS0001 (People Business)\Max\BMan0002-Wa.max
+File Created: 6/19/2018 2:06:55 PM
+Last Edited: 3/27/2014 7:46:10 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeBuS0001_Still_Models\AXYZ - MeBuS0001 (People Business)\Max\BMan0002-Wa_MW.max
+File Created: 6/19/2018 2:06:55 PM
+Last Edited: 3/27/2014 7:46:10 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeBuS0001_Still_Models\AXYZ - MeBuS0001 (People Business)\Max\BMan0003-Se.max
+File Created: 6/19/2018 2:06:55 PM
+Last Edited: 3/27/2014 7:46:10 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeBuS0001_Still_Models\AXYZ - MeBuS0001 (People Business)\Max\BMan0003-Se_MW.max
+File Created: 6/19/2018 2:06:55 PM
+Last Edited: 3/27/2014 7:48:06 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeBuS0001_Still_Models\AXYZ - MeBuS0001 (People Business)\Max\BMan0003-Wa.max
+File Created: 6/19/2018 2:06:55 PM
+Last Edited: 3/27/2014 7:48:06 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeBuS0001_Still_Models\AXYZ - MeBuS0001 (People Business)\Max\BMan0003-Wa_MW.max
+File Created: 6/19/2018 2:06:56 PM
+Last Edited: 3/27/2014 7:37:32 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeBuS0001_Still_Models\AXYZ - MeBuS0001 (People Business)\Max\BMan0004-Se.max
+File Created: 6/19/2018 2:06:57 PM
+Last Edited: 3/27/2014 7:37:32 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeBuS0001_Still_Models\AXYZ - MeBuS0001 (People Business)\Max\BMan0004-Se_MW.max
+File Created: 6/19/2018 2:06:57 PM
+Last Edited: 3/27/2014 7:42:23 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeBuS0001_Still_Models\AXYZ - MeBuS0001 (People Business)\Max\BMan0004-St.max
+File Created: 6/19/2018 2:06:57 PM
+Last Edited: 3/27/2014 7:37:27 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeBuS0001_Still_Models\AXYZ - MeBuS0001 (People Business)\Max\BMan0004-St_MW.max
+File Created: 6/19/2018 2:06:57 PM
+Last Edited: 3/27/2014 7:37:27 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeBuS0001_Still_Models\AXYZ - MeBuS0001 (People Business)\Max\BMan0005-St.max
+File Created: 6/19/2018 2:06:58 PM
+Last Edited: 3/27/2014 7:37:27 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeBuS0001_Still_Models\AXYZ - MeBuS0001 (People Business)\Max\BMan0005-St_MW.max
+File Created: 6/19/2018 2:06:58 PM
+Last Edited: 3/27/2014 7:37:27 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeBuS0001_Still_Models\AXYZ - MeBuS0001 (People Business)\Max\BMan0005-Wa.max
+File Created: 6/19/2018 2:06:58 PM
+Last Edited: 3/27/2014 7:37:27 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeBuS0001_Still_Models\AXYZ - MeBuS0001 (People Business)\Max\BMan0005-Wa_Mw.max
+File Created: 6/19/2018 2:06:58 PM
+Last Edited: 3/27/2014 7:37:27 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeBuS0001_Still_Models\AXYZ - MeBuS0001 (People Business)\Max\BWom0001-Se.max
+File Created: 6/19/2018 2:06:58 PM
+Last Edited: 3/27/2014 7:37:27 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeBuS0001_Still_Models\AXYZ - MeBuS0001 (People Business)\Max\BWom0001-Se_MW.max
+File Created: 6/19/2018 2:06:58 PM
+Last Edited: 3/27/2014 7:39:30 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeBuS0001_Still_Models\AXYZ - MeBuS0001 (People Business)\Max\BWom0001-St.max
+File Created: 6/19/2018 2:06:58 PM
+Last Edited: 3/27/2014 7:39:30 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeBuS0001_Still_Models\AXYZ - MeBuS0001 (People Business)\Max\BWom0001-St_MW.max
+File Created: 6/19/2018 2:06:59 PM
+Last Edited: 3/27/2014 7:39:30 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeBuS0001_Still_Models\AXYZ - MeBuS0001 (People Business)\Max\BWom0002-St.max
+File Created: 6/19/2018 2:06:59 PM
+Last Edited: 3/27/2014 7:44:49 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeBuS0001_Still_Models\AXYZ - MeBuS0001 (People Business)\Max\BWom0002-St_MW.max
+File Created: 6/19/2018 2:06:59 PM
+Last Edited: 3/27/2014 7:44:49 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeBuS0001_Still_Models\AXYZ - MeBuS0001 (People Business)\Max\BWom0002-Wa.max
+File Created: 6/19/2018 2:06:59 PM
+Last Edited: 3/27/2014 7:44:49 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeBuS0001_Still_Models\AXYZ - MeBuS0001 (People Business)\Max\BWom0002-Wa_MW.max
+File Created: 6/19/2018 2:06:59 PM
+Last Edited: 3/27/2014 7:44:49 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeBuS0001_Still_Models\AXYZ - MeBuS0001 (People Business)\Max\BWom0003-Se.max
+File Created: 6/19/2018 2:06:59 PM
+Last Edited: 3/27/2014 7:44:49 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeBuS0001_Still_Models\AXYZ - MeBuS0001 (People Business)\Max\BWom0003-Se_MW.max
+File Created: 6/19/2018 2:06:59 PM
+Last Edited: 3/27/2014 7:44:49 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeBuS0001_Still_Models\AXYZ - MeBuS0001 (People Business)\Max\BWom0003-Wa.max
+File Created: 6/19/2018 2:06:59 PM
+Last Edited: 3/27/2014 7:44:49 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeBuS0001_Still_Models\AXYZ - MeBuS0001 (People Business)\Max\BWom0003-Wa_MW.max
+File Created: 6/19/2018 2:07:00 PM
+Last Edited: 3/27/2014 7:44:49 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeBuS0001_Still_Models\AXYZ - MeBuS0001 (People Business)\Max\BWom0004-St.max
+File Created: 6/19/2018 2:07:00 PM
+Last Edited: 3/27/2014 7:44:49 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeBuS0001_Still_Models\AXYZ - MeBuS0001 (People Business)\Max\BWom0004-St_MW.max
+File Created: 6/19/2018 2:07:00 PM
+Last Edited: 3/27/2014 7:48:06 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeBuS0001_Still_Models\AXYZ - MeBuS0001 (People Business)\Max\BWom0004-Wa.max
+File Created: 6/19/2018 2:07:00 PM
+Last Edited: 3/27/2014 7:44:49 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeBuS0001_Still_Models\AXYZ - MeBuS0001 (People Business)\Max\BWom0004-Wa_MW.max
+File Created: 6/19/2018 2:07:00 PM
+Last Edited: 3/27/2014 7:44:49 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeBuS0001_Still_Models\AXYZ - MeBuS0001 (People Business)\Max\BWom0005-St.max
+File Created: 6/19/2018 2:07:00 PM
+Last Edited: 3/27/2014 7:44:49 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeBuS0001_Still_Models\AXYZ - MeBuS0001 (People Business)\Max\BWom0005-St2.max
+File Created: 6/19/2018 2:07:00 PM
+Last Edited: 3/27/2014 7:44:49 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeBuS0001_Still_Models\AXYZ - MeBuS0001 (People Business)\Max\BWom0005-St2_MW.max
+File Created: 6/19/2018 2:07:00 PM
+Last Edited: 3/27/2014 7:47:25 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeBuS0001_Still_Models\AXYZ - MeBuS0001 (People Business)\Max\BWom0005-St_MW.max
+File Created: 6/19/2018 2:07:00 PM
+Last Edited: 3/27/2014 7:47:26 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeBuS0002_Still_Models\AXYZ - MeBuS0002 (People Business)\Max\BMan0006-Se.max
+File Created: 6/19/2018 2:07:12 PM
+Last Edited: 3/27/2014 7:47:05 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeBuS0002_Still_Models\AXYZ - MeBuS0002 (People Business)\Max\BMan0006-St.max
+File Created: 6/19/2018 2:07:12 PM
+Last Edited: 3/27/2014 7:47:05 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeBuS0002_Still_Models\AXYZ - MeBuS0002 (People Business)\Max\BMan0007-Se.max
+File Created: 6/19/2018 2:07:12 PM
+Last Edited: 3/27/2014 7:47:07 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeBuS0002_Still_Models\AXYZ - MeBuS0002 (People Business)\Max\BMan0007-Wa.max
+File Created: 6/19/2018 2:07:12 PM
+Last Edited: 3/27/2014 7:47:07 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeBuS0002_Still_Models\AXYZ - MeBuS0002 (People Business)\Max\BMan0008-Se.max
+File Created: 6/19/2018 2:07:13 PM
+Last Edited: 3/27/2014 7:47:07 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeBuS0002_Still_Models\AXYZ - MeBuS0002 (People Business)\Max\BMan0008-St.max
+File Created: 6/19/2018 2:07:13 PM
+Last Edited: 3/27/2014 7:47:07 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeBuS0002_Still_Models\AXYZ - MeBuS0002 (People Business)\Max\BMan0009-Se.max
+File Created: 6/19/2018 2:07:13 PM
+Last Edited: 3/27/2014 7:47:07 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeBuS0002_Still_Models\AXYZ - MeBuS0002 (People Business)\Max\BMan0009-St.max
+File Created: 6/19/2018 2:07:13 PM
+Last Edited: 3/27/2014 7:47:07 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeBuS0002_Still_Models\AXYZ - MeBuS0002 (People Business)\Max\BMan0010-Se.max
+File Created: 6/19/2018 2:07:13 PM
+Last Edited: 3/27/2014 7:47:07 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeBuS0002_Still_Models\AXYZ - MeBuS0002 (People Business)\Max\BMan0010-St.max
+File Created: 6/19/2018 2:07:13 PM
+Last Edited: 3/27/2014 7:48:26 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeBuS0002_Still_Models\AXYZ - MeBuS0002 (People Business)\Max\BWom0006-Se.max
+File Created: 6/19/2018 2:07:14 PM
+Last Edited: 3/27/2014 7:48:26 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeBuS0002_Still_Models\AXYZ - MeBuS0002 (People Business)\Max\BWom0006-Wa.max
+File Created: 6/19/2018 2:07:14 PM
+Last Edited: 3/27/2014 7:48:26 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeBuS0002_Still_Models\AXYZ - MeBuS0002 (People Business)\Max\BWom0007-St.max
+File Created: 6/19/2018 2:07:14 PM
+Last Edited: 3/27/2014 7:48:26 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeBuS0002_Still_Models\AXYZ - MeBuS0002 (People Business)\Max\BWom0007-Wa.max
+File Created: 6/19/2018 2:07:14 PM
+Last Edited: 3/27/2014 7:48:26 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeBuS0002_Still_Models\AXYZ - MeBuS0002 (People Business)\Max\BWom0008-Se.max
+File Created: 6/19/2018 2:07:14 PM
+Last Edited: 3/27/2014 7:48:26 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeBuS0002_Still_Models\AXYZ - MeBuS0002 (People Business)\Max\BWom0008-Wa.max
+File Created: 6/19/2018 2:07:14 PM
+Last Edited: 3/27/2014 7:51:28 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeBuS0002_Still_Models\AXYZ - MeBuS0002 (People Business)\Max\BWom0009-St.max
+File Created: 6/19/2018 2:07:14 PM
+Last Edited: 3/27/2014 7:48:23 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeBuS0002_Still_Models\AXYZ - MeBuS0002 (People Business)\Max\BWom0009-Wa.max
+File Created: 6/19/2018 2:07:14 PM
+Last Edited: 3/27/2014 7:48:23 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeBuS0002_Still_Models\AXYZ - MeBuS0002 (People Business)\Max\BWom0010-St.max
+File Created: 6/19/2018 2:07:14 PM
+Last Edited: 3/27/2014 7:48:23 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeBuS0002_Still_Models\AXYZ - MeBuS0002 (People Business)\Max\BWom0010-Wa.max
+File Created: 6/19/2018 2:07:14 PM
+Last Edited: 3/27/2014 7:48:23 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeBuS0002_Still_Models\AXYZ - MeBuS0002 (People Business)\Max\Copier0001.max
+File Created: 6/19/2018 2:07:14 PM
+Last Edited: 3/27/2014 7:48:23 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeCaCS001a_Rigged_Models\AXYZ - MeCaCS001a (Rigged Casual)\Max\CMan0001-CS.max
+File Created: 6/19/2018 2:07:20 PM
+Last Edited: 3/27/2014 7:50:52 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeCaCS001a_Rigged_Models\AXYZ - MeCaCS001a (Rigged Casual)\Max\CMan0002-CS.max
+File Created: 6/19/2018 2:07:21 PM
+Last Edited: 3/27/2014 7:50:52 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeCaCS001a_Rigged_Models\AXYZ - MeCaCS001a (Rigged Casual)\Max\CMan0003-CS.max
+File Created: 6/19/2018 2:07:21 PM
+Last Edited: 3/27/2014 7:53:06 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeCaCS001a_Rigged_Models\AXYZ - MeCaCS001a (Rigged Casual)\Max\CWom0001-CS.max
+File Created: 6/19/2018 2:07:21 PM
+Last Edited: 3/27/2014 7:48:47 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeCaCS001a_Rigged_Models\AXYZ - MeCaCS001a (Rigged Casual)\Max\CWom0002-CS.max
+File Created: 6/19/2018 2:07:21 PM
+Last Edited: 3/27/2014 7:48:47 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeCaCS002a_Rigged_Models\AXYZ - MeCaCS002a (Rigged Casual)\Max\CMan0006-CS.max
+File Created: 6/19/2018 2:07:24 PM
+Last Edited: 3/27/2014 7:51:22 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeCaCS002a_Rigged_Models\AXYZ - MeCaCS002a (Rigged Casual)\Max\CMan0007-CS.max
+File Created: 6/19/2018 2:07:24 PM
+Last Edited: 3/27/2014 7:51:25 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeCaCS002a_Rigged_Models\AXYZ - MeCaCS002a (Rigged Casual)\Max\CMan0008-CS.max
+File Created: 6/19/2018 2:07:24 PM
+Last Edited: 3/27/2014 7:51:25 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeCaCS002a_Rigged_Models\AXYZ - MeCaCS002a (Rigged Casual)\Max\CWom0006-CS.max
+File Created: 6/19/2018 2:07:25 PM
+Last Edited: 3/27/2014 7:53:06 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeCaCS002a_Rigged_Models\AXYZ - MeCaCS002a (Rigged Casual)\Max\CWom0007-CS.max
+File Created: 6/19/2018 2:07:25 PM
+Last Edited: 3/27/2014 7:37:44 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeCaCS003a_Rigged_Models\AXYZ - MeCaCS003a (Rigged Casual)\Max\CMan0011-CS.max
+File Created: 6/19/2018 2:07:27 PM
+Last Edited: 3/27/2014 7:51:31 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeCaCS003a_Rigged_Models\AXYZ - MeCaCS003a (Rigged Casual)\Max\CMan0012-CS.max
+File Created: 6/19/2018 2:07:28 PM
+Last Edited: 3/27/2014 7:51:31 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeCaCS003a_Rigged_Models\AXYZ - MeCaCS003a (Rigged Casual)\Max\CMan0013-CS.max
+File Created: 6/19/2018 2:07:28 PM
+Last Edited: 3/27/2014 7:51:32 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeCaCS003a_Rigged_Models\AXYZ - MeCaCS003a (Rigged Casual)\Max\CWom0011-CS.max
+File Created: 6/19/2018 2:07:28 PM
+Last Edited: 3/27/2014 7:51:32 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeCaCS003a_Rigged_Models\AXYZ - MeCaCS003a (Rigged Casual)\Max\CWom0012-CS.max
+File Created: 6/19/2018 2:07:29 PM
+Last Edited: 3/27/2014 7:53:06 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeCaCS004a_Rigged_Models\AXYZ - MeCaCS004a (Rigged Casual)\Max\CBoy0001-CS.max
+File Created: 6/19/2018 2:07:31 PM
+Last Edited: 3/27/2014 7:38:20 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeCaCS004a_Rigged_Models\AXYZ - MeCaCS004a (Rigged Casual)\Max\CBoy0002-CS.max
+File Created: 6/19/2018 2:07:32 PM
+Last Edited: 3/27/2014 7:38:20 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeCaCS004a_Rigged_Models\AXYZ - MeCaCS004a (Rigged Casual)\Max\CBoy0003-CS.max
+File Created: 6/19/2018 2:07:32 PM
+Last Edited: 3/27/2014 7:52:29 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeCaCS004a_Rigged_Models\AXYZ - MeCaCS004a (Rigged Casual)\Max\CGirl0001-CS.max
+File Created: 6/19/2018 2:07:32 PM
+Last Edited: 3/27/2014 7:52:29 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeCaCS004a_Rigged_Models\AXYZ - MeCaCS004a (Rigged Casual)\Max\CGirl0002-CS.max
+File Created: 6/19/2018 2:07:32 PM
+Last Edited: 3/27/2014 7:53:06 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeCaS0001_Still_Models\MeCaS0001\Max\CMan0001-Se.max
+File Created: 6/19/2018 2:07:39 PM
+Last Edited: 3/27/2014 7:49:59 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeCaS0001_Still_Models\MeCaS0001\Max\CMan0001-Se_MW.max
+File Created: 6/19/2018 2:07:40 PM
+Last Edited: 3/27/2014 7:50:06 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeCaS0001_Still_Models\MeCaS0001\Max\CMan0001-St.max
+File Created: 6/19/2018 2:07:40 PM
+Last Edited: 3/27/2014 7:50:06 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeCaS0001_Still_Models\MeCaS0001\Max\CMan0001-St_MW.max
+File Created: 6/19/2018 2:07:40 PM
+Last Edited: 3/27/2014 7:53:06 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeCaS0001_Still_Models\MeCaS0001\Max\CMan0002-Se.max
+File Created: 6/19/2018 2:07:41 PM
+Last Edited: 3/27/2014 7:50:02 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeCaS0001_Still_Models\MeCaS0001\Max\CMan0002-Se_MW.max
+File Created: 6/19/2018 2:07:41 PM
+Last Edited: 3/27/2014 7:53:06 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeCaS0001_Still_Models\MeCaS0001\Max\CMan0002-Wa.max
+File Created: 6/19/2018 2:07:41 PM
+Last Edited: 3/27/2014 7:48:00 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeCaS0001_Still_Models\MeCaS0001\Max\CMan0002-Wa_MW.max
+File Created: 6/19/2018 2:07:41 PM
+Last Edited: 3/27/2014 7:48:01 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeCaS0001_Still_Models\MeCaS0001\Max\CMan0003-Re.max
+File Created: 6/19/2018 2:07:41 PM
+Last Edited: 3/27/2014 7:48:02 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeCaS0001_Still_Models\MeCaS0001\Max\CMan0003-Re_MW.max
+File Created: 6/19/2018 2:07:42 PM
+Last Edited: 3/27/2014 7:48:06 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeCaS0001_Still_Models\MeCaS0001\Max\CMan0003-Se.max
+File Created: 6/19/2018 2:07:42 PM
+Last Edited: 3/27/2014 7:47:59 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeCaS0001_Still_Models\MeCaS0001\Max\CMan0003-Se_MW.max
+File Created: 6/19/2018 2:07:42 PM
+Last Edited: 3/27/2014 7:47:59 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeCaS0001_Still_Models\MeCaS0001\Max\CMan0004-Se.max
+File Created: 6/19/2018 2:07:42 PM
+Last Edited: 3/27/2014 7:47:59 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeCaS0001_Still_Models\MeCaS0001\Max\CMan0004-Se_MW.max
+File Created: 6/19/2018 2:07:42 PM
+Last Edited: 3/27/2014 7:47:59 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeCaS0001_Still_Models\MeCaS0001\Max\CMan0004-St.max
+File Created: 6/19/2018 2:07:43 PM
+Last Edited: 3/27/2014 7:47:59 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeCaS0001_Still_Models\MeCaS0001\Max\CMan0004-St_MW.max
+File Created: 6/19/2018 2:07:43 PM
+Last Edited: 3/27/2014 7:47:59 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeCaS0001_Still_Models\MeCaS0001\Max\CMan0005-Se.max
+File Created: 6/19/2018 2:07:43 PM
+Last Edited: 3/27/2014 7:47:59 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeCaS0001_Still_Models\MeCaS0001\Max\CMan0005-Se_MW.max
+File Created: 6/19/2018 2:07:43 PM
+Last Edited: 3/27/2014 7:48:00 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeCaS0001_Still_Models\MeCaS0001\Max\CMan0005-Wa.max
+File Created: 6/19/2018 2:07:44 PM
+Last Edited: 3/27/2014 7:48:00 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeCaS0001_Still_Models\MeCaS0001\Max\CMan0005-Wa_MW.max
+File Created: 6/19/2018 2:07:44 PM
+Last Edited: 3/27/2014 7:48:06 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeCaS0001_Still_Models\MeCaS0001\Max\CMan0005-Wa_MW_A.max
+File Created: 6/19/2018 2:07:45 PM
+Last Edited: 3/27/2014 7:44:32 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeCaS0001_Still_Models\MeCaS0001\Max\CWom0001-Se.max
+File Created: 6/19/2018 2:07:45 PM
+Last Edited: 3/27/2014 7:44:32 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeCaS0001_Still_Models\MeCaS0001\Max\CWom0001-Se_MW.max
+File Created: 6/19/2018 2:07:45 PM
+Last Edited: 3/27/2014 7:44:32 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeCaS0001_Still_Models\MeCaS0001\Max\CWom0001-Wa.max
+File Created: 6/19/2018 2:07:45 PM
+Last Edited: 3/27/2014 7:44:32 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeCaS0001_Still_Models\MeCaS0001\Max\CWom0001-Wa_Mw.max
+File Created: 6/19/2018 2:07:45 PM
+Last Edited: 3/27/2014 7:44:32 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeCaS0001_Still_Models\MeCaS0001\Max\CWom0002-Se.max
+File Created: 6/19/2018 2:07:45 PM
+Last Edited: 3/27/2014 7:44:32 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeCaS0001_Still_Models\MeCaS0001\Max\CWom0002-Se_Mw.max
+File Created: 6/19/2018 2:07:45 PM
+Last Edited: 3/27/2014 7:44:32 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeCaS0001_Still_Models\MeCaS0001\Max\CWom0002-Wa.max
+File Created: 6/19/2018 2:07:46 PM
+Last Edited: 3/27/2014 7:44:32 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeCaS0001_Still_Models\MeCaS0001\Max\CWom0002-Wa_MW.max
+File Created: 6/19/2018 2:07:46 PM
+Last Edited: 3/27/2014 7:44:32 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeCaS0001_Still_Models\MeCaS0001\Max\CWom0003-Se.max
+File Created: 6/19/2018 2:07:46 PM
+Last Edited: 3/27/2014 7:44:32 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeCaS0001_Still_Models\MeCaS0001\Max\CWom0003-Se_MW.max
+File Created: 6/19/2018 2:07:46 PM
+Last Edited: 3/27/2014 7:44:32 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeCaS0001_Still_Models\MeCaS0001\Max\CWom0003-Wa.max
+File Created: 6/19/2018 2:07:46 PM
+Last Edited: 3/27/2014 7:44:32 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeCaS0001_Still_Models\MeCaS0001\Max\CWom0003-Wa_MW.max
+File Created: 6/19/2018 2:07:46 PM
+Last Edited: 3/27/2014 7:44:32 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeCaS0001_Still_Models\MeCaS0001\Max\CWom0004-Se.max
+File Created: 6/19/2018 2:07:46 PM
+Last Edited: 3/27/2014 7:48:18 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeCaS0001_Still_Models\MeCaS0001\Max\CWom0004-Se_MW.max
+File Created: 6/19/2018 2:07:47 PM
+Last Edited: 3/27/2014 7:48:18 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeCaS0001_Still_Models\MeCaS0001\Max\CWom0004-St.max
+File Created: 6/19/2018 2:07:47 PM
+Last Edited: 3/27/2014 7:48:18 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeCaS0001_Still_Models\MeCaS0001\Max\CWom0004-St_MW.max
+File Created: 6/19/2018 2:07:48 PM
+Last Edited: 3/27/2014 7:48:18 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeCaS0001_Still_Models\MeCaS0001\Max\CWom0005-Se.max
+File Created: 6/19/2018 2:07:48 PM
+Last Edited: 3/27/2014 7:48:18 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeCaS0001_Still_Models\MeCaS0001\Max\CWom0005-Se_MW.max
+File Created: 6/19/2018 2:07:48 PM
+Last Edited: 3/27/2014 7:48:18 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeCaS0001_Still_Models\MeCaS0001\Max\CWom0005-Wa.max
+File Created: 6/19/2018 2:07:48 PM
+Last Edited: 3/27/2014 7:48:18 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeCaS0001_Still_Models\MeCaS0001\Max\CWom0005-Wa_MW.max
+File Created: 6/19/2018 2:07:48 PM
+Last Edited: 3/27/2014 7:51:25 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeCaS0001_Still_Models\MeCaS0001\Max\CWom0005-Wa_MW_Mono.max
+File Created: 6/19/2018 2:07:48 PM
+Last Edited: 3/27/2014 7:48:16 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeCaS0002_Still_Models\MeCaS0002\max\CMan0006-St.max
+File Created: 6/19/2018 2:08:03 PM
+Last Edited: 3/27/2014 7:48:06 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeCaS0002_Still_Models\MeCaS0002\max\CMan0006-Wa.max
+File Created: 6/19/2018 2:08:03 PM
+Last Edited: 3/27/2014 7:45:36 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeCaS0002_Still_Models\MeCaS0002\max\CMan0007-Se.max
+File Created: 6/19/2018 2:08:03 PM
+Last Edited: 3/27/2014 7:45:36 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeCaS0002_Still_Models\MeCaS0002\max\CMan0007-Wa.max
+File Created: 6/19/2018 2:08:03 PM
+Last Edited: 3/27/2014 7:45:36 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeCaS0002_Still_Models\MeCaS0002\max\CMan0008-Ru.max
+File Created: 6/19/2018 2:08:03 PM
+Last Edited: 3/27/2014 7:45:36 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeCaS0002_Still_Models\MeCaS0002\max\CMan0008-Wa.max
+File Created: 6/19/2018 2:08:03 PM
+Last Edited: 3/27/2014 7:45:37 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeCaS0002_Still_Models\MeCaS0002\max\CMan0009-Se.max
+File Created: 6/19/2018 2:08:04 PM
+Last Edited: 3/27/2014 7:45:37 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeCaS0002_Still_Models\MeCaS0002\max\CMan0009-St.max
+File Created: 6/19/2018 2:08:04 PM
+Last Edited: 3/27/2014 7:45:37 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeCaS0002_Still_Models\MeCaS0002\max\CMan0010-Ru.max
+File Created: 6/19/2018 2:08:04 PM
+Last Edited: 3/27/2014 7:45:37 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeCaS0002_Still_Models\MeCaS0002\max\CMan0010-Wa.max
+File Created: 6/19/2018 2:08:04 PM
+Last Edited: 3/27/2014 7:48:06 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeCaS0002_Still_Models\MeCaS0002\max\CWom0006-Se.max
+File Created: 6/19/2018 2:08:05 PM
+Last Edited: 3/27/2014 7:43:31 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeCaS0002_Still_Models\MeCaS0002\max\CWom0006-St.max
+File Created: 6/19/2018 2:08:05 PM
+Last Edited: 3/27/2014 7:43:31 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeCaS0002_Still_Models\MeCaS0002\max\CWom0007-St.max
+File Created: 6/19/2018 2:08:05 PM
+Last Edited: 3/27/2014 7:43:31 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeCaS0002_Still_Models\MeCaS0002\max\CWom0007-Wa.max
+File Created: 6/19/2018 2:08:06 PM
+Last Edited: 3/27/2014 7:43:31 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeCaS0002_Still_Models\MeCaS0002\max\CWom0008-Se.max
+File Created: 6/19/2018 2:08:06 PM
+Last Edited: 3/27/2014 7:43:31 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeCaS0002_Still_Models\MeCaS0002\max\CWom0008-Wa.max
+File Created: 6/19/2018 2:08:06 PM
+Last Edited: 3/27/2014 7:43:31 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeCaS0002_Still_Models\MeCaS0002\max\CWom0009-Se.max
+File Created: 6/19/2018 2:08:06 PM
+Last Edited: 3/27/2014 7:43:34 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeCaS0002_Still_Models\MeCaS0002\max\CWom0009-St.max
+File Created: 6/19/2018 2:08:07 PM
+Last Edited: 3/27/2014 7:43:34 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeCaS0002_Still_Models\MeCaS0002\max\CWom0010-Se.max
+File Created: 6/19/2018 2:08:07 PM
+Last Edited: 3/27/2014 7:43:34 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeCaS0002_Still_Models\MeCaS0002\max\CWom0010-St.max
+File Created: 6/19/2018 2:08:07 PM
+Last Edited: 3/27/2014 7:43:34 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeCaS0003_Still_Models\MeCaS0003\Max\CMan0011-Tp.max
+File Created: 6/19/2018 2:08:23 PM
+Last Edited: 3/27/2014 7:47:02 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeCaS0003_Still_Models\MeCaS0003\Max\CMan0012-Tp.max
+File Created: 6/19/2018 2:08:23 PM
+Last Edited: 3/27/2014 7:47:02 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeCaS0003_Still_Models\MeCaS0003\Max\CMan0013-Tp.max
+File Created: 6/19/2018 2:08:23 PM
+Last Edited: 3/27/2014 7:47:02 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeCaS0003_Still_Models\MeCaS0003\Max\CMan0014-Tp.max
+File Created: 6/19/2018 2:08:23 PM
+Last Edited: 3/27/2014 7:47:02 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeCaS0003_Still_Models\MeCaS0003\Max\CMan0015-Tp.max
+File Created: 6/19/2018 2:08:23 PM
+Last Edited: 3/27/2014 7:47:02 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeCaS0003_Still_Models\MeCaS0003\Max\CWom0011-Tp.max
+File Created: 6/19/2018 2:08:24 PM
+Last Edited: 3/27/2014 7:47:02 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeCaS0003_Still_Models\MeCaS0003\Max\CWom0012-Tp.max
+File Created: 6/19/2018 2:08:24 PM
+Last Edited: 3/27/2014 7:48:06 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeCaS0003_Still_Models\MeCaS0003\Max\CWom0013-Tp.max
+File Created: 6/19/2018 2:08:24 PM
+Last Edited: 3/27/2014 7:46:09 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeCaS0003_Still_Models\MeCaS0003\Max\CWom0014-Tp.max
+File Created: 6/19/2018 2:08:24 PM
+Last Edited: 3/27/2014 7:46:09 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeCaS0003_Still_Models\MeCaS0003\Max\CWom0015-Tp.max
+File Created: 6/19/2018 2:08:24 PM
+Last Edited: 3/27/2014 7:46:11 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeCaS0005_Still_Models\MeCaS0005\Max\Bike0001.max
+File Created: 6/19/2018 2:08:37 PM
+Last Edited: 3/27/2014 7:53:06 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeCaS0005_Still_Models\MeCaS0005\Max\Bike0002.max
+File Created: 6/19/2018 2:08:37 PM
+Last Edited: 3/27/2014 7:48:06 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeCaS0005_Still_Models\MeCaS0005\Max\CMan0016-Ru.max
+File Created: 6/19/2018 2:08:38 PM
+Last Edited: 3/27/2014 7:46:17 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeCaS0005_Still_Models\MeCaS0005\Max\CMan0016-Se.max
+File Created: 6/19/2018 2:08:38 PM
+Last Edited: 3/27/2014 7:49:02 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeCaS0005_Still_Models\MeCaS0005\Max\CMan0017-Se.max
+File Created: 6/19/2018 2:08:38 PM
+Last Edited: 3/27/2014 7:49:02 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeCaS0005_Still_Models\MeCaS0005\Max\CMan0017-Wa.max
+File Created: 6/19/2018 2:08:38 PM
+Last Edited: 3/27/2014 7:49:02 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeCaS0005_Still_Models\MeCaS0005\Max\CMan0018-Se.max
+File Created: 6/19/2018 2:08:38 PM
+Last Edited: 3/27/2014 7:49:02 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeCaS0005_Still_Models\MeCaS0005\Max\CMan0018-Wa.max
+File Created: 6/19/2018 2:08:39 PM
+Last Edited: 3/27/2014 7:53:06 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeCaS0005_Still_Models\MeCaS0005\Max\CMan0019-Bike.max
+File Created: 6/19/2018 2:08:39 PM
+Last Edited: 3/27/2014 7:53:06 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeCaS0005_Still_Models\MeCaS0005\Max\CMan0019-St.max
+File Created: 6/19/2018 2:08:39 PM
+Last Edited: 3/27/2014 7:45:59 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeCaS0005_Still_Models\MeCaS0005\Max\CMan0020-Bike.max
+File Created: 6/19/2018 2:08:39 PM
+Last Edited: 3/27/2014 7:48:06 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeCaS0005_Still_Models\MeCaS0005\Max\CMan0020-Ru.max
+File Created: 6/19/2018 2:08:39 PM
+Last Edited: 3/27/2014 7:48:41 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeCaS0005_Still_Models\MeCaS0005\Max\CWom0018-Se.max
+File Created: 6/19/2018 2:08:39 PM
+Last Edited: 3/27/2014 7:48:41 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeCaS0005_Still_Models\MeCaS0005\Max\CWom0018-Wa.max
+File Created: 6/19/2018 2:08:40 PM
+Last Edited: 3/27/2014 7:48:41 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeCaS0005_Still_Models\MeCaS0005\Max\CWom0019-St.max
+File Created: 6/19/2018 2:08:40 PM
+Last Edited: 3/27/2014 7:48:41 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeCaS0005_Still_Models\MeCaS0005\Max\CWom0019-Wa.max
+File Created: 6/19/2018 2:08:40 PM
+Last Edited: 3/27/2014 7:51:35 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeCaS0005_Still_Models\MeCaS0005\Max\CWom0020-Se.max
+File Created: 6/19/2018 2:08:40 PM
+Last Edited: 3/27/2014 7:48:38 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeCaS0005_Still_Models\MeCaS0005\Max\CWom0020-St.max
+File Created: 6/19/2018 2:08:41 PM
+Last Edited: 3/27/2014 7:48:38 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeCaS0005_Still_Models\MeCaS0005\Max\CWom0021-Se.max
+File Created: 6/19/2018 2:08:41 PM
+Last Edited: 3/27/2014 7:48:38 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeCaS0005_Still_Models\MeCaS0005\Max\CWom0021-Wa.max
+File Created: 6/19/2018 2:08:41 PM
+Last Edited: 3/27/2014 7:49:21 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeCaS0005_Still_Models\MeCaS0005\Max\CWom0022-Skipping.max
+File Created: 6/19/2018 2:08:41 PM
+Last Edited: 3/27/2014 7:49:21 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeCaS0005_Still_Models\MeCaS0005\Max\CWom0022-St.max
+File Created: 6/19/2018 2:08:41 PM
+Last Edited: 3/27/2014 7:49:25 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeCat0001_T-Pose_Models\AXYZ - MeCat0001 (T-Pose Casual)\Max\CMan0001-Tp.max
+File Created: 6/19/2018 2:09:00 PM
+Last Edited: 3/27/2014 7:43:33 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeCat0001_T-Pose_Models\AXYZ - MeCat0001 (T-Pose Casual)\Max\CMan0002-Tp.max
+File Created: 6/19/2018 2:09:00 PM
+Last Edited: 3/27/2014 7:43:33 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeCat0001_T-Pose_Models\AXYZ - MeCat0001 (T-Pose Casual)\Max\CMan0003-Tp.max
+File Created: 6/19/2018 2:09:01 PM
+Last Edited: 3/27/2014 7:43:34 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeCat0001_T-Pose_Models\AXYZ - MeCat0001 (T-Pose Casual)\Max\CMan0004-Tp.max
+File Created: 6/19/2018 2:09:01 PM
+Last Edited: 3/27/2014 7:43:34 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeCat0001_T-Pose_Models\AXYZ - MeCat0001 (T-Pose Casual)\Max\CMan0005-Tp.max
+File Created: 6/19/2018 2:09:01 PM
+Last Edited: 3/27/2014 7:43:34 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeCat0001_T-Pose_Models\AXYZ - MeCat0001 (T-Pose Casual)\Max\CWom0001-Tp.max
+File Created: 6/19/2018 2:09:01 PM
+Last Edited: 3/27/2014 7:43:34 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeCat0001_T-Pose_Models\AXYZ - MeCat0001 (T-Pose Casual)\Max\CWom0001-Wa.max
+File Created: 6/19/2018 2:09:01 PM
+Last Edited: 3/27/2014 7:43:34 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeCat0001_T-Pose_Models\AXYZ - MeCat0001 (T-Pose Casual)\Max\CWom0002-Tp.max
+File Created: 6/19/2018 2:09:01 PM
+Last Edited: 3/27/2014 7:43:34 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeCat0001_T-Pose_Models\AXYZ - MeCat0001 (T-Pose Casual)\Max\CWom0003-Tp.max
+File Created: 6/19/2018 2:09:01 PM
+Last Edited: 3/27/2014 7:48:33 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeCat0001_T-Pose_Models\AXYZ - MeCat0001 (T-Pose Casual)\Max\CWom0004-Tp.max
+File Created: 6/19/2018 2:09:01 PM
+Last Edited: 3/27/2014 7:48:33 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeCat0001_T-Pose_Models\AXYZ - MeCat0001 (T-Pose Casual)\Max\CWom0005-Tp.max
+File Created: 6/19/2018 2:09:01 PM
+Last Edited: 3/27/2014 7:48:33 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeCat0002_T-Pose_Models\AXYZ - MeCat0002 (T-Pose Casual)\Max\CMan0006-Tp.max
+File Created: 6/19/2018 2:09:07 PM
+Last Edited: 3/27/2014 7:48:06 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeCat0002_T-Pose_Models\AXYZ - MeCat0002 (T-Pose Casual)\Max\CMan0007-Tp.max
+File Created: 6/19/2018 2:09:07 PM
+Last Edited: 3/27/2014 7:48:06 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeCat0002_T-Pose_Models\AXYZ - MeCat0002 (T-Pose Casual)\Max\CMan0008-Tp.max
+File Created: 6/19/2018 2:09:07 PM
+Last Edited: 3/27/2014 7:48:06 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeCat0002_T-Pose_Models\AXYZ - MeCat0002 (T-Pose Casual)\Max\CMan0009-Tp.max
+File Created: 6/19/2018 2:09:07 PM
+Last Edited: 3/27/2014 7:46:00 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeCat0002_T-Pose_Models\AXYZ - MeCat0002 (T-Pose Casual)\Max\CMan0010-Tp.max
+File Created: 6/19/2018 2:09:07 PM
+Last Edited: 3/27/2014 7:46:00 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeCat0002_T-Pose_Models\AXYZ - MeCat0002 (T-Pose Casual)\Max\CWom0006-Tp.max
+File Created: 6/19/2018 2:09:07 PM
+Last Edited: 3/27/2014 7:46:01 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeCat0002_T-Pose_Models\AXYZ - MeCat0002 (T-Pose Casual)\Max\CWom0007-Tp.max
+File Created: 6/19/2018 2:09:07 PM
+Last Edited: 3/27/2014 7:46:01 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeCat0002_T-Pose_Models\AXYZ - MeCat0002 (T-Pose Casual)\Max\CWom0008-Tp.max
+File Created: 6/19/2018 2:09:08 PM
+Last Edited: 3/27/2014 7:46:01 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeCat0002_T-Pose_Models\AXYZ - MeCat0002 (T-Pose Casual)\Max\CWom0009-Tp.max
+File Created: 6/19/2018 2:09:08 PM
+Last Edited: 3/27/2014 7:47:09 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeCat0002_T-Pose_Models\AXYZ - MeCat0002 (T-Pose Casual)\Max\CWom0010-Tp.max
+File Created: 6/19/2018 2:09:08 PM
+Last Edited: 3/27/2014 7:47:09 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeCat0003_T-Pose_Models\AXYZ - MeCat0003 (T-Pose Casual)\Max\CMam0011-Tp.max
+File Created: 6/19/2018 2:09:15 PM
+Last Edited: 3/27/2014 7:46:49 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeCat0003_T-Pose_Models\AXYZ - MeCat0003 (T-Pose Casual)\Max\CMam0012-Tp.max
+File Created: 6/19/2018 2:09:16 PM
+Last Edited: 3/27/2014 7:46:49 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeCat0003_T-Pose_Models\AXYZ - MeCat0003 (T-Pose Casual)\Max\CMam0013-Tp.max
+File Created: 6/19/2018 2:09:16 PM
+Last Edited: 3/27/2014 7:46:49 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeCat0003_T-Pose_Models\AXYZ - MeCat0003 (T-Pose Casual)\Max\CMam0014-Tp.max
+File Created: 6/19/2018 2:09:16 PM
+Last Edited: 3/27/2014 7:46:49 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeCat0003_T-Pose_Models\AXYZ - MeCat0003 (T-Pose Casual)\Max\CMam0015-Tp.max
+File Created: 6/19/2018 2:09:16 PM
+Last Edited: 3/27/2014 7:46:49 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeCat0003_T-Pose_Models\AXYZ - MeCat0003 (T-Pose Casual)\Max\CWom0011-Tp.max
+File Created: 6/19/2018 2:09:16 PM
+Last Edited: 3/27/2014 7:46:49 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeCat0003_T-Pose_Models\AXYZ - MeCat0003 (T-Pose Casual)\Max\CWom0012-Tp.max
+File Created: 6/19/2018 2:09:16 PM
+Last Edited: 3/27/2014 7:46:49 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeCat0003_T-Pose_Models\AXYZ - MeCat0003 (T-Pose Casual)\Max\CWom0013-Tp.max
+File Created: 6/19/2018 2:09:16 PM
+Last Edited: 3/27/2014 7:46:49 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeCat0003_T-Pose_Models\AXYZ - MeCat0003 (T-Pose Casual)\Max\CWom0014-Tp.max
+File Created: 6/19/2018 2:09:16 PM
+Last Edited: 3/27/2014 7:48:06 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeCat0003_T-Pose_Models\AXYZ - MeCat0003 (T-Pose Casual)\Max\CWom0015-Tp.max
+File Created: 6/19/2018 2:09:16 PM
+Last Edited: 3/27/2014 7:44:58 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeSpS0001_Still_Models\AXYZ - MeSpS 0001 (Sport)\Max\PeoplePiscina.max
+File Created: 6/19/2018 2:09:19 PM
+Last Edited: 3/27/2014 7:37:54 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeSpS0001_Still_Models\AXYZ - MeSpS 0001 (Sport)\Max\SMan0001-Gm.max
+File Created: 6/19/2018 2:09:19 PM
+Last Edited: 3/27/2014 7:37:54 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeSpS0001_Still_Models\AXYZ - MeSpS 0001 (Sport)\Max\SMan0001-Gm_MW.max
+File Created: 6/19/2018 2:09:19 PM
+Last Edited: 3/27/2014 7:37:54 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeSpS0001_Still_Models\AXYZ - MeSpS 0001 (Sport)\Max\SMan0001-Sb.max
+File Created: 6/19/2018 2:09:19 PM
+Last Edited: 3/27/2014 7:37:56 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeSpS0001_Still_Models\AXYZ - MeSpS 0001 (Sport)\Max\SMan0001-Sb_MW.max
+File Created: 6/19/2018 2:09:19 PM
+Last Edited: 3/27/2014 7:37:56 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeSpS0001_Still_Models\AXYZ - MeSpS 0001 (Sport)\Max\SMan0001-Se.max
+File Created: 6/19/2018 2:09:19 PM
+Last Edited: 3/27/2014 7:37:56 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeSpS0001_Still_Models\AXYZ - MeSpS 0001 (Sport)\Max\SMan0001-Se_MW.max
+File Created: 6/19/2018 2:09:19 PM
+Last Edited: 3/27/2014 7:37:56 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeSpS0001_Still_Models\AXYZ - MeSpS 0001 (Sport)\Max\SMan0002-St.max
+File Created: 6/19/2018 2:09:20 PM
+Last Edited: 3/27/2014 7:37:56 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeSpS0001_Still_Models\AXYZ - MeSpS 0001 (Sport)\Max\SMan0002-St_MW.max
+File Created: 6/19/2018 2:09:20 PM
+Last Edited: 3/27/2014 7:37:56 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeSpS0001_Still_Models\AXYZ - MeSpS 0001 (Sport)\Max\SMan0002-Wa.max
+File Created: 6/19/2018 2:09:20 PM
+Last Edited: 3/27/2014 7:37:56 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeSpS0001_Still_Models\AXYZ - MeSpS 0001 (Sport)\Max\SMan0002-Wa_MW.max
+File Created: 6/19/2018 2:09:20 PM
+Last Edited: 3/27/2014 7:44:25 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeSpS0001_Still_Models\AXYZ - MeSpS 0001 (Sport)\Max\SMan0003-Gm.max
+File Created: 6/19/2018 2:09:20 PM
+Last Edited: 3/27/2014 7:44:25 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeSpS0001_Still_Models\AXYZ - MeSpS 0001 (Sport)\Max\SMan0003-Gm_MW.max
+File Created: 6/19/2018 2:09:20 PM
+Last Edited: 3/27/2014 7:44:25 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeSpS0001_Still_Models\AXYZ - MeSpS 0001 (Sport)\Max\SMan0003-Se.max
+File Created: 6/19/2018 2:09:20 PM
+Last Edited: 3/27/2014 7:44:25 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeSpS0001_Still_Models\AXYZ - MeSpS 0001 (Sport)\Max\SMan0003-Se_MW.max
+File Created: 6/19/2018 2:09:20 PM
+Last Edited: 3/27/2014 7:44:25 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeSpS0001_Still_Models\AXYZ - MeSpS 0001 (Sport)\Max\SMan0004-Gm.max
+File Created: 6/19/2018 2:09:21 PM
+Last Edited: 3/27/2014 7:44:25 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeSpS0001_Still_Models\AXYZ - MeSpS 0001 (Sport)\Max\SMan0004-Gm_MW.max
+File Created: 6/19/2018 2:09:21 PM
+Last Edited: 3/27/2014 7:44:25 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeSpS0001_Still_Models\AXYZ - MeSpS 0001 (Sport)\Max\SMan0004-Ru.max
+File Created: 6/19/2018 2:09:21 PM
+Last Edited: 3/27/2014 7:44:25 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeSpS0001_Still_Models\AXYZ - MeSpS 0001 (Sport)\Max\SMan0004-Ru_MW.max
+File Created: 6/19/2018 2:09:21 PM
+Last Edited: 3/27/2014 7:44:26 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeSpS0001_Still_Models\AXYZ - MeSpS 0001 (Sport)\Max\SMan0005-Sb.max
+File Created: 6/19/2018 2:09:21 PM
+Last Edited: 3/27/2014 7:44:26 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeSpS0001_Still_Models\AXYZ - MeSpS 0001 (Sport)\Max\SMan0005-Sb_MW.max
+File Created: 6/19/2018 2:09:21 PM
+Last Edited: 3/27/2014 7:44:26 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeSpS0001_Still_Models\AXYZ - MeSpS 0001 (Sport)\Max\SMan0005-St.max
+File Created: 6/19/2018 2:09:21 PM
+Last Edited: 3/27/2014 7:44:26 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeSpS0001_Still_Models\AXYZ - MeSpS 0001 (Sport)\Max\SMan0005-St_MW.max
+File Created: 6/19/2018 2:09:21 PM
+Last Edited: 3/27/2014 7:44:26 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeSpS0001_Still_Models\AXYZ - MeSpS 0001 (Sport)\Max\SunChair0001.max
+File Created: 6/19/2018 2:09:21 PM
+Last Edited: 3/27/2014 7:44:26 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeSpS0001_Still_Models\AXYZ - MeSpS 0001 (Sport)\Max\SunChair0001_MW.max
+File Created: 6/19/2018 2:09:22 PM
+Last Edited: 3/27/2014 7:44:48 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeSpS0001_Still_Models\AXYZ - MeSpS 0001 (Sport)\Max\SunChair0002.max
+File Created: 6/19/2018 2:09:22 PM
+Last Edited: 3/27/2014 7:44:48 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeSpS0001_Still_Models\AXYZ - MeSpS 0001 (Sport)\Max\SunChair0002_MW.max
+File Created: 6/19/2018 2:09:22 PM
+Last Edited: 3/27/2014 7:44:48 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeSpS0001_Still_Models\AXYZ - MeSpS 0001 (Sport)\Max\SWom0001-Gm.max
+File Created: 6/19/2018 2:09:22 PM
+Last Edited: 3/27/2014 7:44:48 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeSpS0001_Still_Models\AXYZ - MeSpS 0001 (Sport)\Max\SWom0001-Gm_MW.max
+File Created: 6/19/2018 2:09:22 PM
+Last Edited: 3/27/2014 7:44:48 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeSpS0001_Still_Models\AXYZ - MeSpS 0001 (Sport)\Max\SWom0001-Sb.max
+File Created: 6/19/2018 2:09:22 PM
+Last Edited: 3/27/2014 7:44:48 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeSpS0001_Still_Models\AXYZ - MeSpS 0001 (Sport)\Max\SWom0001-Sb_MW.max
+File Created: 6/19/2018 2:09:22 PM
+Last Edited: 3/27/2014 7:44:48 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeSpS0001_Still_Models\AXYZ - MeSpS 0001 (Sport)\Max\SWom0002-St.max
+File Created: 6/19/2018 2:09:22 PM
+Last Edited: 3/27/2014 7:44:48 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeSpS0001_Still_Models\AXYZ - MeSpS 0001 (Sport)\Max\SWom0002-St_MW.max
+File Created: 6/19/2018 2:09:22 PM
+Last Edited: 3/27/2014 7:44:49 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeSpS0001_Still_Models\AXYZ - MeSpS 0001 (Sport)\Max\SWom0002-Wa.max
+File Created: 6/19/2018 2:09:22 PM
+Last Edited: 3/27/2014 7:44:49 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeSpS0001_Still_Models\AXYZ - MeSpS 0001 (Sport)\Max\SWom0002-Wa_MW.max
+File Created: 6/19/2018 2:09:22 PM
+Last Edited: 3/27/2014 7:44:49 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeSpS0001_Still_Models\AXYZ - MeSpS 0001 (Sport)\Max\SWom0003-Se.max
+File Created: 6/19/2018 2:09:22 PM
+Last Edited: 3/27/2014 7:44:49 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeSpS0001_Still_Models\AXYZ - MeSpS 0001 (Sport)\Max\SWom0003-Se_MW.max
+File Created: 6/19/2018 2:09:23 PM
+Last Edited: 3/27/2014 7:44:49 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeSpS0001_Still_Models\AXYZ - MeSpS 0001 (Sport)\Max\SWom0003-Wa.max
+File Created: 6/19/2018 2:09:23 PM
+Last Edited: 3/27/2014 7:44:49 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeSpS0001_Still_Models\AXYZ - MeSpS 0001 (Sport)\Max\SWom0003-Wa_MW.max
+File Created: 6/19/2018 2:09:23 PM
+Last Edited: 3/27/2014 7:49:14 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeSpS0001_Still_Models\AXYZ - MeSpS 0001 (Sport)\Max\SWom0004-Ru.max
+File Created: 6/19/2018 2:09:23 PM
+Last Edited: 3/27/2014 7:49:14 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeSpS0001_Still_Models\AXYZ - MeSpS 0001 (Sport)\Max\SWom0004-Ru_MW.max
+File Created: 6/19/2018 2:09:23 PM
+Last Edited: 3/27/2014 7:49:14 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeSpS0001_Still_Models\AXYZ - MeSpS 0001 (Sport)\Max\SWom0004-Sb.max
+File Created: 6/19/2018 2:09:23 PM
+Last Edited: 3/27/2014 7:49:14 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeSpS0001_Still_Models\AXYZ - MeSpS 0001 (Sport)\Max\SWom0004-Sb_MW.max
+File Created: 6/19/2018 2:09:23 PM
+Last Edited: 3/27/2014 7:49:14 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeSpS0001_Still_Models\AXYZ - MeSpS 0001 (Sport)\Max\SWom0005-Sb.max
+File Created: 6/19/2018 2:09:23 PM
+Last Edited: 3/27/2014 7:49:14 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeSpS0001_Still_Models\AXYZ - MeSpS 0001 (Sport)\Max\SWom0005-Sb_MW.max
+File Created: 6/19/2018 2:09:24 PM
+Last Edited: 3/27/2014 7:49:14 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeSpS0001_Still_Models\AXYZ - MeSpS 0001 (Sport)\Max\SWom0005-St.max
+File Created: 6/19/2018 2:09:24 PM
+Last Edited: 3/27/2014 7:52:12 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeSpS0001_Still_Models\AXYZ - MeSpS 0001 (Sport)\Max\SWom0005-St_MW.max
+File Created: 6/19/2018 2:09:24 PM
+Last Edited: 3/27/2014 7:49:13 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeSpS0001_Still_Models\AXYZ - MeSpS 0001 (Sport)\Max_Other\SMan0001-Gm.max
+File Created: 6/19/2018 2:09:24 PM
+Last Edited: 3/27/2014 7:49:14 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeSpS0001_Still_Models\AXYZ - MeSpS 0001 (Sport)\Max_Other\SMan0001-Sb.max
+File Created: 6/19/2018 2:09:24 PM
+Last Edited: 3/27/2014 7:52:12 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeSpS0001_Still_Models\AXYZ - MeSpS 0001 (Sport)\Max_Other\SMan0001-Se.max
+File Created: 6/19/2018 2:09:24 PM
+Last Edited: 3/27/2014 7:49:13 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeSpS0001_Still_Models\AXYZ - MeSpS 0001 (Sport)\Max_Other\SMan0002-St.max
+File Created: 6/19/2018 2:09:24 PM
+Last Edited: 3/27/2014 7:49:13 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeSpS0001_Still_Models\AXYZ - MeSpS 0001 (Sport)\Max_Other\SMan0002-Wa.max
+File Created: 6/19/2018 2:09:24 PM
+Last Edited: 3/27/2014 7:52:14 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeSpS0001_Still_Models\AXYZ - MeSpS 0001 (Sport)\Max_Other\SMan0003-Gm.max
+File Created: 6/19/2018 2:09:24 PM
+Last Edited: 3/27/2014 7:45:39 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeSpS0001_Still_Models\AXYZ - MeSpS 0001 (Sport)\Max_Other\SMan0003-Se.max
+File Created: 6/19/2018 2:09:24 PM
+Last Edited: 3/27/2014 7:45:39 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeSpS0001_Still_Models\AXYZ - MeSpS 0001 (Sport)\Max_Other\SMan0004-Gm.max
+File Created: 6/19/2018 2:09:24 PM
+Last Edited: 3/27/2014 7:45:41 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeSpS0001_Still_Models\AXYZ - MeSpS 0001 (Sport)\Max_Other\SMan0004-Ru.max
+File Created: 6/19/2018 2:09:24 PM
+Last Edited: 3/27/2014 7:45:41 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeSpS0001_Still_Models\AXYZ - MeSpS 0001 (Sport)\Max_Other\SMan0005-Sb.max
+File Created: 6/19/2018 2:09:25 PM
+Last Edited: 3/27/2014 7:47:41 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeSpS0001_Still_Models\AXYZ - MeSpS 0001 (Sport)\Max_Other\SMan0005-St.max
+File Created: 6/19/2018 2:09:25 PM
+Last Edited: 3/27/2014 7:48:06 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeSpS0001_Still_Models\AXYZ - MeSpS 0001 (Sport)\Max_Other\SunChair0001.max
+File Created: 6/19/2018 2:09:25 PM
+Last Edited: 3/27/2014 7:45:39 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeSpS0001_Still_Models\AXYZ - MeSpS 0001 (Sport)\Max_Other\SunChair0002.max
+File Created: 6/19/2018 2:09:25 PM
+Last Edited: 3/27/2014 7:45:39 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeSpS0001_Still_Models\AXYZ - MeSpS 0001 (Sport)\Max_Other\SWom0001-Gm.max
+File Created: 6/19/2018 2:09:25 PM
+Last Edited: 3/27/2014 7:48:06 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeSpS0001_Still_Models\AXYZ - MeSpS 0001 (Sport)\Max_Other\SWom0001-Sb.max
+File Created: 6/19/2018 2:09:25 PM
+Last Edited: 3/27/2014 7:45:39 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeSpS0001_Still_Models\AXYZ - MeSpS 0001 (Sport)\Max_Other\SWom0002-St.max
+File Created: 6/19/2018 2:09:25 PM
+Last Edited: 3/27/2014 7:45:39 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeSpS0001_Still_Models\AXYZ - MeSpS 0001 (Sport)\Max_Other\SWom0002-Wa.max
+File Created: 6/19/2018 2:09:25 PM
+Last Edited: 3/27/2014 7:45:39 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeSpS0001_Still_Models\AXYZ - MeSpS 0001 (Sport)\Max_Other\SWom0003-Se.max
+File Created: 6/19/2018 2:09:25 PM
+Last Edited: 3/27/2014 7:50:06 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeSpS0001_Still_Models\AXYZ - MeSpS 0001 (Sport)\Max_Other\SWom0003-Wa.max
+File Created: 6/19/2018 2:09:25 PM
+Last Edited: 3/27/2014 7:50:06 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeSpS0001_Still_Models\AXYZ - MeSpS 0001 (Sport)\Max_Other\SWom0004-Ru.max
+File Created: 6/19/2018 2:09:25 PM
+Last Edited: 3/27/2014 7:50:06 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeSpS0001_Still_Models\AXYZ - MeSpS 0001 (Sport)\Max_Other\SWom0004-Sb.max
+File Created: 6/19/2018 2:09:25 PM
+Last Edited: 3/27/2014 7:50:06 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeSpS0001_Still_Models\AXYZ - MeSpS 0001 (Sport)\Max_Other\SWom0005-Sb.max
+File Created: 6/19/2018 2:09:26 PM
+Last Edited: 3/27/2014 7:50:06 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\AXYZ_MeSpS0001_Still_Models\AXYZ - MeSpS 0001 (Sport)\Max_Other\SWom0005-St.max
+File Created: 6/19/2018 2:09:26 PM
+Last Edited: 3/27/2014 7:50:06 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeBuCS001a - Rigged Business\Max\BMan0001-CS.max
+File Created: 6/19/2018 2:09:27 PM
+Last Edited: 3/27/2014 7:52:07 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeBuCS001a - Rigged Business\Max\BMan0002-CS.max
+File Created: 6/19/2018 2:09:27 PM
+Last Edited: 3/27/2014 7:49:08 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeBuCS001a - Rigged Business\Max\BMan0003-CS.max
+File Created: 6/19/2018 2:09:28 PM
+Last Edited: 3/27/2014 7:52:07 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeBuCS001a - Rigged Business\Max\BWom0001-CS.max
+File Created: 6/19/2018 2:09:28 PM
+Last Edited: 3/27/2014 7:46:56 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeBuCS001a - Rigged Business\Max\BWom0002-CS.max
+File Created: 6/19/2018 2:09:28 PM
+Last Edited: 3/27/2014 7:46:56 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeBuCS001b - Rigged Business\Max\BMan0004-CS.max
+File Created: 6/19/2018 2:09:29 PM
+Last Edited: 3/27/2014 7:44:36 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeBuCS001b - Rigged Business\Max\BMan0005-CS.max
+File Created: 6/19/2018 2:09:29 PM
+Last Edited: 3/27/2014 7:53:06 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeBuCS001b - Rigged Business\Max\BWom0003-CS.max
+File Created: 6/19/2018 2:09:30 PM
+Last Edited: 3/27/2014 7:53:06 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeBuCS001b - Rigged Business\Max\BWom0004-CS.max
+File Created: 6/19/2018 2:09:30 PM
+Last Edited: 3/27/2014 7:48:40 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeBuCS001b - Rigged Business\Max\BWom0005-CS.max
+File Created: 6/19/2018 2:09:30 PM
+Last Edited: 3/27/2014 7:52:07 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeBuS0001 - Still Business\Max\BMan0001-Se.max
+File Created: 6/19/2018 2:09:33 PM
+Last Edited: 3/27/2014 7:50:10 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeBuS0001 - Still Business\Max\BMan0001-St.max
+File Created: 6/19/2018 2:09:33 PM
+Last Edited: 3/27/2014 7:50:10 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeBuS0001 - Still Business\Max\BMan0002-St.max
+File Created: 6/19/2018 2:09:33 PM
+Last Edited: 3/27/2014 7:53:06 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeBuS0001 - Still Business\Max\BMan0002-Wa.max
+File Created: 6/19/2018 2:09:33 PM
+Last Edited: 3/27/2014 7:50:08 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeBuS0001 - Still Business\Max\BMan0003-Se.max
+File Created: 6/19/2018 2:09:33 PM
+Last Edited: 3/27/2014 7:50:08 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeBuS0001 - Still Business\Max\BMan0003-Wa.max
+File Created: 6/19/2018 2:09:34 PM
+Last Edited: 3/27/2014 7:50:08 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeBuS0001 - Still Business\Max\BMan0004-Se.max
+File Created: 6/19/2018 2:09:34 PM
+Last Edited: 3/27/2014 7:50:08 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeBuS0001 - Still Business\Max\BMan0004-St.max
+File Created: 6/19/2018 2:09:34 PM
+Last Edited: 3/27/2014 7:50:08 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeBuS0001 - Still Business\Max\BMan0005-St.max
+File Created: 6/19/2018 2:09:34 PM
+Last Edited: 3/27/2014 7:50:08 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeBuS0001 - Still Business\Max\BMan0005-Wa.max
+File Created: 6/19/2018 2:09:34 PM
+Last Edited: 3/27/2014 7:53:06 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeBuS0001 - Still Business\Max\BWom0001-Se.max
+File Created: 6/19/2018 2:09:34 PM
+Last Edited: 3/27/2014 7:38:25 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeBuS0001 - Still Business\Max\BWom0001-St.max
+File Created: 6/19/2018 2:09:34 PM
+Last Edited: 3/27/2014 7:38:25 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeBuS0001 - Still Business\Max\BWom0002-St.max
+File Created: 6/19/2018 2:09:34 PM
+Last Edited: 3/27/2014 7:38:25 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeBuS0001 - Still Business\Max\BWom0002-Wa.max
+File Created: 6/19/2018 2:09:34 PM
+Last Edited: 3/27/2014 7:38:25 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeBuS0001 - Still Business\Max\BWom0003-Se.max
+File Created: 6/19/2018 2:09:34 PM
+Last Edited: 3/27/2014 7:38:25 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeBuS0001 - Still Business\Max\BWom0003-Wa.max
+File Created: 6/19/2018 2:09:34 PM
+Last Edited: 3/27/2014 7:38:25 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeBuS0001 - Still Business\Max\BWom0004-St.max
+File Created: 6/19/2018 2:09:34 PM
+Last Edited: 3/27/2014 7:38:26 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeBuS0001 - Still Business\Max\BWom0004-Wa.max
+File Created: 6/19/2018 2:09:35 PM
+Last Edited: 3/27/2014 7:38:26 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeBuS0001 - Still Business\Max\BWom0005-St.max
+File Created: 6/19/2018 2:09:35 PM
+Last Edited: 3/27/2014 7:38:26 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeBuS0001 - Still Business\Max\BWom0005-St2.max
+File Created: 6/19/2018 2:09:35 PM
+Last Edited: 3/27/2014 7:38:26 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeBuS0002 - Still Business\Max\BMan0006-Se.max
+File Created: 6/19/2018 2:09:37 PM
+Last Edited: 3/27/2014 7:45:55 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeBuS0002 - Still Business\Max\BMan0006-St.max
+File Created: 6/19/2018 2:09:37 PM
+Last Edited: 3/27/2014 7:45:55 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeBuS0002 - Still Business\Max\BMan0007-Se.max
+File Created: 6/19/2018 2:09:37 PM
+Last Edited: 3/27/2014 7:45:55 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeBuS0002 - Still Business\Max\BMan0007-Wa.max
+File Created: 6/19/2018 2:09:37 PM
+Last Edited: 3/27/2014 7:48:06 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeBuS0002 - Still Business\Max\BMan0008-Se.max
+File Created: 6/19/2018 2:09:37 PM
+Last Edited: 3/27/2014 7:38:08 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeBuS0002 - Still Business\Max\BMan0008-St.max
+File Created: 6/19/2018 2:09:37 PM
+Last Edited: 3/27/2014 7:38:08 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeBuS0002 - Still Business\Max\BMan0009-Se.max
+File Created: 6/19/2018 2:09:38 PM
+Last Edited: 3/27/2014 7:38:08 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeBuS0002 - Still Business\Max\BMan0009-St.max
+File Created: 6/19/2018 2:09:38 PM
+Last Edited: 3/27/2014 7:38:08 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeBuS0002 - Still Business\Max\BMan0010-Se.max
+File Created: 6/19/2018 2:09:38 PM
+Last Edited: 3/27/2014 7:38:08 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeBuS0002 - Still Business\Max\BMan0010-St.max
+File Created: 6/19/2018 2:09:38 PM
+Last Edited: 3/27/2014 7:38:08 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeBuS0002 - Still Business\Max\BWom0006-Se.max
+File Created: 6/19/2018 2:09:38 PM
+Last Edited: 3/27/2014 7:38:08 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeBuS0002 - Still Business\Max\BWom0006-Wa.max
+File Created: 6/19/2018 2:09:38 PM
+Last Edited: 3/27/2014 7:38:10 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeBuS0002 - Still Business\Max\BWom0007-St.max
+File Created: 6/19/2018 2:09:38 PM
+Last Edited: 3/27/2014 7:38:10 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeBuS0002 - Still Business\Max\BWom0007-Wa.max
+File Created: 6/19/2018 2:09:39 PM
+Last Edited: 3/27/2014 7:38:10 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeBuS0002 - Still Business\Max\BWom0008-Se.max
+File Created: 6/19/2018 2:09:39 PM
+Last Edited: 3/27/2014 7:38:10 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeBuS0002 - Still Business\Max\BWom0008-Wa.max
+File Created: 6/19/2018 2:09:39 PM
+Last Edited: 3/27/2014 7:38:10 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeBuS0002 - Still Business\Max\BWom0009-St.max
+File Created: 6/19/2018 2:09:39 PM
+Last Edited: 3/27/2014 7:38:10 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeBuS0002 - Still Business\Max\BWom0009-Wa.max
+File Created: 6/19/2018 2:09:39 PM
+Last Edited: 3/27/2014 7:38:10 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeBuS0002 - Still Business\Max\BWom0010-St.max
+File Created: 6/19/2018 2:09:39 PM
+Last Edited: 3/27/2014 7:51:33 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeBuS0002 - Still Business\Max\BWom0010-Wa.max
+File Created: 6/19/2018 2:09:39 PM
+Last Edited: 3/27/2014 7:51:33 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeBuS0002 - Still Business\Max\Copier0001.max
+File Created: 6/19/2018 2:09:39 PM
+Last Edited: 3/27/2014 7:51:33 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeCaCS001a - Rigged Casual\Max\CMan0001-CS.max
+File Created: 6/19/2018 2:09:40 PM
+Last Edited: 3/27/2014 7:53:06 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeCaCS001a - Rigged Casual\Max\CMan0002-CS.max
+File Created: 6/19/2018 2:09:40 PM
+Last Edited: 3/27/2014 7:53:06 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeCaCS001a - Rigged Casual\Max\CMan0003-CS.max
+File Created: 6/19/2018 2:09:40 PM
+Last Edited: 3/27/2014 7:51:27 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeCaCS001a - Rigged Casual\Max\CWom0001-CS.max
+File Created: 6/19/2018 2:09:40 PM
+Last Edited: 3/27/2014 7:53:06 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeCaCS001a - Rigged Casual\Max\CWom0002-CS.max
+File Created: 6/19/2018 2:09:41 PM
+Last Edited: 3/27/2014 7:38:55 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeCaCS002a - RiggedCasual\Max\CMan0006-CS.max
+File Created: 6/19/2018 2:09:43 PM
+Last Edited: 3/27/2014 7:42:41 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeCaCS002a - RiggedCasual\Max\CMan0007-CS.max
+File Created: 6/19/2018 2:09:43 PM
+Last Edited: 3/27/2014 7:42:41 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeCaCS002a - RiggedCasual\Max\CMan0008-CS.max
+File Created: 6/19/2018 2:09:43 PM
+Last Edited: 3/27/2014 7:49:12 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeCaCS002a - RiggedCasual\Max\CWom0006-CS.max
+File Created: 6/19/2018 2:09:43 PM
+Last Edited: 3/27/2014 7:49:15 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeCaCS002a - RiggedCasual\Max\CWom0007-CS.max
+File Created: 6/19/2018 2:09:43 PM
+Last Edited: 3/27/2014 7:52:14 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeCaCS003a - Rigged Casual\Max\CMan0011-CS.max
+File Created: 6/19/2018 2:09:46 PM
+Last Edited: 3/27/2014 7:53:06 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeCaCS003a - Rigged Casual\Max\CMan0012-CS.max
+File Created: 6/19/2018 2:09:46 PM
+Last Edited: 3/27/2014 7:38:34 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeCaCS003a - Rigged Casual\Max\CMan0013-CS.max
+File Created: 6/19/2018 2:09:46 PM
+Last Edited: 3/27/2014 7:38:37 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeCaCS003a - Rigged Casual\Max\CWom0011-CS.max
+File Created: 6/19/2018 2:09:46 PM
+Last Edited: 3/27/2014 7:38:37 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeCaCS003a - Rigged Casual\Max\CWom0012-CS.max
+File Created: 6/19/2018 2:09:46 PM
+Last Edited: 3/27/2014 7:50:01 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeCaCS004a - Rigged Casual\Max\CBoy0001-CS.max
+File Created: 6/19/2018 2:09:48 PM
+Last Edited: 3/27/2014 7:45:53 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeCaCS004a - Rigged Casual\Max\CBoy0002-CS.max
+File Created: 6/19/2018 2:09:48 PM
+Last Edited: 3/27/2014 7:48:06 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeCaCS004a - Rigged Casual\Max\CBoy0003-CS.max
+File Created: 6/19/2018 2:09:48 PM
+Last Edited: 3/27/2014 7:45:52 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeCaCS004a - Rigged Casual\Max\CGirl0001-CS.max
+File Created: 6/19/2018 2:09:48 PM
+Last Edited: 3/27/2014 7:45:52 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeCaCS004a - Rigged Casual\Max\CGirl0002-CS.max
+File Created: 6/19/2018 2:09:48 PM
+Last Edited: 3/27/2014 7:50:11 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeCaS0001 - Still Casual\Max\CMan0001-Se.max
+File Created: 6/19/2018 2:09:53 PM
+Last Edited: 3/27/2014 7:48:44 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeCaS0001 - Still Casual\Max\CMan0001-Se_MW.max
+File Created: 6/19/2018 2:09:53 PM
+Last Edited: 3/27/2014 7:48:44 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeCaS0001 - Still Casual\Max\CMan0001-St.max
+File Created: 6/19/2018 2:09:54 PM
+Last Edited: 3/27/2014 7:48:44 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeCaS0001 - Still Casual\Max\CMan0001-St_MW.max
+File Created: 6/19/2018 2:09:54 PM
+Last Edited: 3/27/2014 7:48:44 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeCaS0001 - Still Casual\Max\CMan0002-Se.max
+File Created: 6/19/2018 2:09:54 PM
+Last Edited: 3/27/2014 7:48:45 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeCaS0001 - Still Casual\Max\CMan0002-Se_MW.max
+File Created: 6/19/2018 2:09:54 PM
+Last Edited: 3/27/2014 7:51:41 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeCaS0001 - Still Casual\Max\CMan0002-Wa.max
+File Created: 6/19/2018 2:09:54 PM
+Last Edited: 3/27/2014 7:48:44 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeCaS0001 - Still Casual\Max\CMan0002-Wa_MW.max
+File Created: 6/19/2018 2:09:54 PM
+Last Edited: 3/27/2014 7:48:44 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeCaS0001 - Still Casual\Max\CMan0003-Re.max
+File Created: 6/19/2018 2:09:55 PM
+Last Edited: 3/27/2014 7:48:44 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeCaS0001 - Still Casual\Max\CMan0003-Re_MW.max
+File Created: 6/19/2018 2:09:55 PM
+Last Edited: 3/27/2014 7:48:44 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeCaS0001 - Still Casual\Max\CMan0003-Se.max
+File Created: 6/19/2018 2:09:55 PM
+Last Edited: 3/27/2014 7:48:44 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeCaS0001 - Still Casual\Max\CMan0003-Se_MW.max
+File Created: 6/19/2018 2:09:55 PM
+Last Edited: 3/27/2014 7:48:44 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeCaS0001 - Still Casual\Max\CMan0004-Se.max
+File Created: 6/19/2018 2:09:55 PM
+Last Edited: 3/27/2014 7:51:09 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeCaS0001 - Still Casual\Max\CMan0004-Se_MW.max
+File Created: 6/19/2018 2:09:56 PM
+Last Edited: 3/27/2014 7:51:09 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeCaS0001 - Still Casual\Max\CMan0004-St.max
+File Created: 6/19/2018 2:09:56 PM
+Last Edited: 3/27/2014 7:51:09 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeCaS0001 - Still Casual\Max\CMan0004-St_MW.max
+File Created: 6/19/2018 2:09:56 PM
+Last Edited: 3/27/2014 7:53:06 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeCaS0001 - Still Casual\Max\CMan0005-Se.max
+File Created: 6/19/2018 2:09:56 PM
+Last Edited: 3/27/2014 7:50:47 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeCaS0001 - Still Casual\Max\CMan0005-Se_MW.max
+File Created: 6/19/2018 2:09:56 PM
+Last Edited: 3/27/2014 7:50:47 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeCaS0001 - Still Casual\Max\CMan0005-Wa.max
+File Created: 6/19/2018 2:09:56 PM
+Last Edited: 3/27/2014 7:50:47 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeCaS0001 - Still Casual\Max\CMan0005-Wa_MW.max
+File Created: 6/19/2018 2:09:56 PM
+Last Edited: 3/27/2014 7:50:47 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeCaS0001 - Still Casual\Max\CMan0005-Wa_MW_A.max
+File Created: 6/19/2018 2:09:56 PM
+Last Edited: 3/27/2014 7:50:47 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeCaS0001 - Still Casual\Max\CWom0001-Se.max
+File Created: 6/19/2018 2:09:57 PM
+Last Edited: 3/27/2014 7:50:47 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeCaS0001 - Still Casual\Max\CWom0001-Se_MW.max
+File Created: 6/19/2018 2:09:57 PM
+Last Edited: 3/27/2014 7:50:47 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeCaS0001 - Still Casual\Max\CWom0001-Wa.max
+File Created: 6/19/2018 2:09:57 PM
+Last Edited: 3/27/2014 7:50:47 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeCaS0001 - Still Casual\Max\CWom0001-Wa_Mw.max
+File Created: 6/19/2018 2:09:57 PM
+Last Edited: 3/27/2014 7:50:47 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeCaS0001 - Still Casual\Max\CWom0002-Se.max
+File Created: 6/19/2018 2:09:57 PM
+Last Edited: 3/27/2014 7:53:06 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeCaS0001 - Still Casual\Max\CWom0002-Se_Mw.max
+File Created: 6/19/2018 2:09:58 PM
+Last Edited: 3/27/2014 7:45:23 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeCaS0001 - Still Casual\Max\CWom0002-Wa.max
+File Created: 6/19/2018 2:09:58 PM
+Last Edited: 3/27/2014 7:45:23 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeCaS0001 - Still Casual\Max\CWom0002-Wa_MW.max
+File Created: 6/19/2018 2:09:58 PM
+Last Edited: 3/27/2014 7:45:23 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeCaS0001 - Still Casual\Max\CWom0003-Se.max
+File Created: 6/19/2018 2:09:58 PM
+Last Edited: 3/27/2014 7:48:05 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeCaS0001 - Still Casual\Max\CWom0003-Se_MW.max
+File Created: 6/19/2018 2:09:58 PM
+Last Edited: 3/27/2014 7:45:22 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeCaS0001 - Still Casual\Max\CWom0003-Wa.max
+File Created: 6/19/2018 2:09:58 PM
+Last Edited: 3/27/2014 7:45:23 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeCaS0001 - Still Casual\Max\CWom0003-Wa_MW.max
+File Created: 6/19/2018 2:09:58 PM
+Last Edited: 3/27/2014 7:45:23 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeCaS0001 - Still Casual\Max\CWom0004-Se.max
+File Created: 6/19/2018 2:09:59 PM
+Last Edited: 3/27/2014 7:48:05 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeCaS0001 - Still Casual\Max\CWom0004-Se_MW.max
+File Created: 6/19/2018 2:09:59 PM
+Last Edited: 3/27/2014 7:45:20 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeCaS0001 - Still Casual\Max\CWom0004-St.max
+File Created: 6/19/2018 2:09:59 PM
+Last Edited: 3/27/2014 7:45:20 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeCaS0001 - Still Casual\Max\CWom0004-St_MW.max
+File Created: 6/19/2018 2:09:59 PM
+Last Edited: 3/27/2014 7:45:20 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeCaS0001 - Still Casual\Max\CWom0005-Se.max
+File Created: 6/19/2018 2:09:59 PM
+Last Edited: 3/27/2014 7:45:20 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeCaS0001 - Still Casual\Max\CWom0005-Se_MW.max
+File Created: 6/19/2018 2:09:59 PM
+Last Edited: 3/27/2014 7:45:20 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeCaS0001 - Still Casual\Max\CWom0005-Wa.max
+File Created: 6/19/2018 2:09:59 PM
+Last Edited: 3/27/2014 7:49:50 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeCaS0001 - Still Casual\Max\CWom0005-Wa_MW.max
+File Created: 6/19/2018 2:10:00 PM
+Last Edited: 3/27/2014 7:49:50 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeCaS0001 - Still Casual\Max\CWom0005-Wa_MW_Mono.max
+File Created: 6/19/2018 2:10:00 PM
+Last Edited: 3/27/2014 7:49:50 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeCaS0002 - Still Casual\Max\CMan0006-St.max
+File Created: 6/19/2018 2:10:06 PM
+Last Edited: 3/27/2014 7:46:20 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeCaS0002 - Still Casual\Max\CMan0006-Wa.max
+File Created: 6/19/2018 2:10:06 PM
+Last Edited: 3/27/2014 7:46:20 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeCaS0002 - Still Casual\Max\CMan0007-Se.max
+File Created: 6/19/2018 2:10:06 PM
+Last Edited: 3/27/2014 7:46:20 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeCaS0002 - Still Casual\Max\CMan0007-Wa.max
+File Created: 6/19/2018 2:10:06 PM
+Last Edited: 3/27/2014 7:46:20 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeCaS0002 - Still Casual\Max\CMan0008-Ru.max
+File Created: 6/19/2018 2:10:06 PM
+Last Edited: 3/27/2014 7:46:20 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeCaS0002 - Still Casual\Max\CMan0008-Wa.max
+File Created: 6/19/2018 2:10:06 PM
+Last Edited: 3/27/2014 7:46:20 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeCaS0002 - Still Casual\Max\CMan0009-Se.max
+File Created: 6/19/2018 2:10:07 PM
+Last Edited: 3/27/2014 7:48:06 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeCaS0002 - Still Casual\Max\CMan0009-St.max
+File Created: 6/19/2018 2:10:07 PM
+Last Edited: 3/27/2014 7:48:06 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeCaS0002 - Still Casual\Max\CMan0010-Ru.max
+File Created: 6/19/2018 2:10:07 PM
+Last Edited: 3/27/2014 7:45:58 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeCaS0002 - Still Casual\Max\CMan0010-Wa.max
+File Created: 6/19/2018 2:10:07 PM
+Last Edited: 3/27/2014 7:46:17 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeCaS0002 - Still Casual\Max\CWom0006-Se.max
+File Created: 6/19/2018 2:10:08 PM
+Last Edited: 3/27/2014 7:48:06 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeCaS0002 - Still Casual\Max\CWom0006-St.max
+File Created: 6/19/2018 2:10:08 PM
+Last Edited: 3/27/2014 7:46:02 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeCaS0002 - Still Casual\Max\CWom0007-St.max
+File Created: 6/19/2018 2:10:08 PM
+Last Edited: 3/27/2014 7:46:02 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeCaS0002 - Still Casual\Max\CWom0007-Wa.max
+File Created: 6/19/2018 2:10:08 PM
+Last Edited: 3/27/2014 7:46:07 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeCaS0002 - Still Casual\Max\CWom0008-Se.max
+File Created: 6/19/2018 2:10:08 PM
+Last Edited: 3/27/2014 7:46:07 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeCaS0002 - Still Casual\Max\CWom0008-Wa.max
+File Created: 6/19/2018 2:10:08 PM
+Last Edited: 3/27/2014 7:48:06 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeCaS0002 - Still Casual\Max\CWom0009-Se.max
+File Created: 6/19/2018 2:10:09 PM
+Last Edited: 3/27/2014 7:45:58 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeCaS0002 - Still Casual\Max\CWom0009-St.max
+File Created: 6/19/2018 2:10:09 PM
+Last Edited: 3/27/2014 7:45:58 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeCaS0002 - Still Casual\Max\CWom0010-Se.max
+File Created: 6/19/2018 2:10:09 PM
+Last Edited: 3/27/2014 7:45:58 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeCaS0002 - Still Casual\Max\CWom0010-St.max
+File Created: 6/19/2018 2:10:09 PM
+Last Edited: 3/27/2014 7:45:58 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeCaS0004 - Still Casual\Max\CBoy0001-Se.max
+File Created: 6/19/2018 2:10:14 PM
+Last Edited: 3/27/2014 7:44:58 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeCaS0004 - Still Casual\Max\CBoy0001-St.max
+File Created: 6/19/2018 2:10:14 PM
+Last Edited: 3/27/2014 7:47:27 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeCaS0004 - Still Casual\Max\CBoy0002-Se.max
+File Created: 6/19/2018 2:10:14 PM
+Last Edited: 3/27/2014 7:44:56 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeCaS0004 - Still Casual\Max\CBoy0002-St.max
+File Created: 6/19/2018 2:10:14 PM
+Last Edited: 3/27/2014 7:44:56 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeCaS0004 - Still Casual\Max\CBoy0003-Se.max
+File Created: 6/19/2018 2:10:14 PM
+Last Edited: 3/27/2014 7:44:56 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeCaS0004 - Still Casual\Max\CBoy0003-St.max
+File Created: 6/19/2018 2:10:14 PM
+Last Edited: 3/27/2014 7:44:56 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeCaS0004 - Still Casual\Max\CBoy0004-Ru.max
+File Created: 6/19/2018 2:10:15 PM
+Last Edited: 3/27/2014 7:44:56 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeCaS0004 - Still Casual\Max\CBoy0004-Se.max
+File Created: 6/19/2018 2:10:15 PM
+Last Edited: 3/27/2014 7:44:56 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeCaS0004 - Still Casual\Max\CBoy0005-Se.max
+File Created: 6/19/2018 2:10:15 PM
+Last Edited: 3/27/2014 7:51:48 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeCaS0004 - Still Casual\Max\CBoy0005-St.max
+File Created: 6/19/2018 2:10:15 PM
+Last Edited: 3/27/2014 7:51:48 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeCaS0004 - Still Casual\Max\CGirl0001-St.max
+File Created: 6/19/2018 2:10:15 PM
+Last Edited: 3/27/2014 7:51:48 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeCaS0004 - Still Casual\Max\CGirl0001-Wa.max
+File Created: 6/19/2018 2:10:15 PM
+Last Edited: 3/27/2014 7:51:48 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeCaS0004 - Still Casual\Max\CGirl0002-Se.max
+File Created: 6/19/2018 2:10:15 PM
+Last Edited: 3/27/2014 7:51:48 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeCaS0004 - Still Casual\Max\CGirl0002-St.max
+File Created: 6/19/2018 2:10:15 PM
+Last Edited: 3/27/2014 7:51:48 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeCaS0004 - Still Casual\Max\CGirl0003-Ru.max
+File Created: 6/19/2018 2:10:15 PM
+Last Edited: 3/27/2014 7:52:07 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeCaS0004 - Still Casual\Max\CGirl0003-Se.max
+File Created: 6/19/2018 2:10:15 PM
+Last Edited: 3/27/2014 7:53:06 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeCaS0004 - Still Casual\Max\CWom0016-Se.max
+File Created: 6/19/2018 2:10:16 PM
+Last Edited: 3/27/2014 7:51:45 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeCaS0004 - Still Casual\Max\CWom0016-Wa.max
+File Created: 6/19/2018 2:10:16 PM
+Last Edited: 3/27/2014 7:51:45 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeCaS0004 - Still Casual\Max\CWom0017-Se.max
+File Created: 6/19/2018 2:10:16 PM
+Last Edited: 3/27/2014 7:51:45 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeCaS0004 - Still Casual\Max\CWom0017-St.max
+File Created: 6/19/2018 2:10:16 PM
+Last Edited: 3/27/2014 7:51:45 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeCaS0005 - Still Casual\Max\Bike0001.max
+File Created: 6/19/2018 2:10:18 PM
+Last Edited: 3/27/2014 7:51:32 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeCaS0005 - Still Casual\Max\Bike0002.max
+File Created: 6/19/2018 2:10:19 PM
+Last Edited: 3/27/2014 7:50:23 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeCaS0005 - Still Casual\Max\CMan0016-Ru.max
+File Created: 6/19/2018 2:10:19 PM
+Last Edited: 3/27/2014 7:50:23 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeCaS0005 - Still Casual\Max\CMan0016-Se.max
+File Created: 6/19/2018 2:10:19 PM
+Last Edited: 3/27/2014 7:50:23 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeCaS0005 - Still Casual\Max\CMan0017-Se.max
+File Created: 6/19/2018 2:10:19 PM
+Last Edited: 3/27/2014 7:50:23 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeCaS0005 - Still Casual\Max\CMan0017-Wa.max
+File Created: 6/19/2018 2:10:19 PM
+Last Edited: 3/27/2014 7:50:24 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeCaS0005 - Still Casual\Max\CMan0018-Se.max
+File Created: 6/19/2018 2:10:19 PM
+Last Edited: 3/27/2014 7:50:24 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeCaS0005 - Still Casual\Max\CMan0018-Wa.max
+File Created: 6/19/2018 2:10:19 PM
+Last Edited: 3/27/2014 7:50:24 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeCaS0005 - Still Casual\Max\CMan0019-Bike.max
+File Created: 6/19/2018 2:10:19 PM
+Last Edited: 3/27/2014 7:53:06 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeCaS0005 - Still Casual\Max\CMan0019-St.max
+File Created: 6/19/2018 2:10:20 PM
+Last Edited: 3/27/2014 7:50:50 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeCaS0005 - Still Casual\Max\CMan0020-Bike.max
+File Created: 6/19/2018 2:10:20 PM
+Last Edited: 3/27/2014 7:53:06 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeCaS0005 - Still Casual\Max\CMan0020-Ru.max
+File Created: 6/19/2018 2:10:20 PM
+Last Edited: 3/27/2014 7:38:23 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeCaS0005 - Still Casual\Max\CWom0018-Se.max
+File Created: 6/19/2018 2:10:20 PM
+Last Edited: 3/27/2014 7:38:23 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeCaS0005 - Still Casual\Max\CWom0018-Wa.max
+File Created: 6/19/2018 2:10:20 PM
+Last Edited: 3/27/2014 7:38:24 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeCaS0005 - Still Casual\Max\CWom0019-St.max
+File Created: 6/19/2018 2:10:20 PM
+Last Edited: 3/27/2014 7:38:24 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeCaS0005 - Still Casual\Max\CWom0019-Wa.max
+File Created: 6/19/2018 2:10:20 PM
+Last Edited: 3/27/2014 7:38:24 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeCaS0005 - Still Casual\Max\CWom0020-Se.max
+File Created: 6/19/2018 2:10:20 PM
+Last Edited: 3/27/2014 7:38:24 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeCaS0005 - Still Casual\Max\CWom0020-St.max
+File Created: 6/19/2018 2:10:21 PM
+Last Edited: 3/27/2014 7:51:59 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeCaS0005 - Still Casual\Max\CWom0021-Se.max
+File Created: 6/19/2018 2:10:21 PM
+Last Edited: 3/27/2014 7:51:59 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeCaS0005 - Still Casual\Max\CWom0021-Wa.max
+File Created: 6/19/2018 2:10:21 PM
+Last Edited: 3/27/2014 7:52:30 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeCaS0005 - Still Casual\Max\CWom0022-Skipping.max
+File Created: 6/19/2018 2:10:21 PM
+Last Edited: 3/27/2014 7:53:06 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeCaS0005 - Still Casual\Max\CWom0022-St.max
+File Created: 6/19/2018 2:10:21 PM
+Last Edited: 3/27/2014 7:52:04 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeCat0001 - T-Pose Casual\Max\CMan0001-Tp.max
+File Created: 6/19/2018 2:10:37 PM
+Last Edited: 3/27/2014 7:48:06 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeCat0001 - T-Pose Casual\Max\CMan0002-Tp.max
+File Created: 6/19/2018 2:10:37 PM
+Last Edited: 3/27/2014 7:45:48 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeCat0001 - T-Pose Casual\Max\CMan0003-Tp.max
+File Created: 6/19/2018 2:10:37 PM
+Last Edited: 3/27/2014 7:48:06 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeCat0001 - T-Pose Casual\Max\CMan0004-Tp.max
+File Created: 6/19/2018 2:10:37 PM
+Last Edited: 3/27/2014 7:45:46 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeCat0001 - T-Pose Casual\Max\CMan0005-Tp.max
+File Created: 6/19/2018 2:10:37 PM
+Last Edited: 3/27/2014 7:45:46 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeCat0001 - T-Pose Casual\Max\CWom0001-Tp.max
+File Created: 6/19/2018 2:10:37 PM
+Last Edited: 3/27/2014 7:45:46 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeCat0001 - T-Pose Casual\Max\CWom0002-Tp.max
+File Created: 6/19/2018 2:10:37 PM
+Last Edited: 3/27/2014 7:45:46 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeCat0001 - T-Pose Casual\Max\CWom0003-Tp.max
+File Created: 6/19/2018 2:10:37 PM
+Last Edited: 3/27/2014 7:45:46 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeCat0001 - T-Pose Casual\Max\CWom0004-Tp.max
+File Created: 6/19/2018 2:10:38 PM
+Last Edited: 3/27/2014 7:45:50 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeCat0001 - T-Pose Casual\Max\CWom0005-Tp.max
+File Created: 6/19/2018 2:10:39 PM
+Last Edited: 3/27/2014 7:45:50 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeCat0002 - T-Pose Casual\Max\CMan0006-Tp.max
+File Created: 6/19/2018 2:10:45 PM
+Last Edited: 3/27/2014 7:38:48 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeCat0002 - T-Pose Casual\Max\CMan0007-Tp.max
+File Created: 6/19/2018 2:10:46 PM
+Last Edited: 3/27/2014 7:38:48 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeCat0002 - T-Pose Casual\Max\CMan0008-Tp.max
+File Created: 6/19/2018 2:10:46 PM
+Last Edited: 3/27/2014 7:38:48 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeCat0002 - T-Pose Casual\Max\CMan0009-Tp.max
+File Created: 6/19/2018 2:10:46 PM
+Last Edited: 3/27/2014 7:38:48 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeCat0002 - T-Pose Casual\Max\CMan0010-Tp.max
+File Created: 6/19/2018 2:10:46 PM
+Last Edited: 3/27/2014 7:38:48 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeCat0002 - T-Pose Casual\Max\CWom0006-Tp.max
+File Created: 6/19/2018 2:10:46 PM
+Last Edited: 3/27/2014 7:38:48 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeCat0002 - T-Pose Casual\Max\CWom0007-Tp.max
+File Created: 6/19/2018 2:10:46 PM
+Last Edited: 3/27/2014 7:38:48 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeCat0002 - T-Pose Casual\Max\CWom0008-Tp.max
+File Created: 6/19/2018 2:10:47 PM
+Last Edited: 3/27/2014 7:38:48 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeCat0002 - T-Pose Casual\Max\CWom0009-Tp.max
+File Created: 6/19/2018 2:10:47 PM
+Last Edited: 3/27/2014 7:38:48 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeCat0002 - T-Pose Casual\Max\CWom0010-Tp.max
+File Created: 6/19/2018 2:10:47 PM
+Last Edited: 3/27/2014 7:46:05 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeCat0003 - T-Pose Casual\Max\CMam0013-Tp.max
+File Created: 6/19/2018 2:10:50 PM
+Last Edited: 3/27/2014 7:46:53 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeSpS0001 - Still Sport\Max\SMan0001-Gm.max
+File Created: 6/19/2018 2:10:52 PM
+Last Edited: 3/27/2014 7:45:18 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeSpS0001 - Still Sport\Max\SMan0001-Sb.max
+File Created: 6/19/2018 2:10:52 PM
+Last Edited: 3/27/2014 7:48:02 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeSpS0001 - Still Sport\Max\SMan0001-Se.max
+File Created: 6/19/2018 2:10:52 PM
+Last Edited: 3/27/2014 7:45:17 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeSpS0001 - Still Sport\Max\SMan0002-St.max
+File Created: 6/19/2018 2:10:52 PM
+Last Edited: 3/27/2014 7:45:17 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeSpS0001 - Still Sport\Max\SMan0002-Wa.max
+File Created: 6/19/2018 2:10:52 PM
+Last Edited: 3/27/2014 7:45:17 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeSpS0001 - Still Sport\Max\SMan0003-Gm.max
+File Created: 6/19/2018 2:10:52 PM
+Last Edited: 3/27/2014 7:45:17 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeSpS0001 - Still Sport\Max\SMan0003-Se.max
+File Created: 6/19/2018 2:10:52 PM
+Last Edited: 3/27/2014 7:45:18 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeSpS0001 - Still Sport\Max\SMan0004-Gm.max
+File Created: 6/19/2018 2:10:52 PM
+Last Edited: 3/27/2014 7:45:18 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeSpS0001 - Still Sport\Max\SMan0004-Ru.max
+File Created: 6/19/2018 2:10:53 PM
+Last Edited: 3/27/2014 7:45:18 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeSpS0001 - Still Sport\Max\SMan0005-Sb.max
+File Created: 6/19/2018 2:10:53 PM
+Last Edited: 3/27/2014 7:45:18 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeSpS0001 - Still Sport\Max\SMan0005-St.max
+File Created: 6/19/2018 2:10:53 PM
+Last Edited: 3/27/2014 7:48:05 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeSpS0001 - Still Sport\Max\SunChair0001.max
+File Created: 6/19/2018 2:10:53 PM
+Last Edited: 3/27/2014 7:38:17 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeSpS0001 - Still Sport\Max\SunChair0002.max
+File Created: 6/19/2018 2:10:53 PM
+Last Edited: 3/27/2014 7:38:17 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeSpS0001 - Still Sport\Max\SWom0001-Gm.max
+File Created: 6/19/2018 2:10:53 PM
+Last Edited: 3/27/2014 7:38:17 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeSpS0001 - Still Sport\Max\SWom0001-Sb.max
+File Created: 6/19/2018 2:10:53 PM
+Last Edited: 3/27/2014 7:38:17 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeSpS0001 - Still Sport\Max\SWom0002-St.max
+File Created: 6/19/2018 2:10:54 PM
+Last Edited: 3/27/2014 7:38:17 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeSpS0001 - Still Sport\Max\SWom0002-Wa.max
+File Created: 6/19/2018 2:10:54 PM
+Last Edited: 3/27/2014 7:38:17 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeSpS0001 - Still Sport\Max\SWom0003-Se.max
+File Created: 6/19/2018 2:10:54 PM
+Last Edited: 3/27/2014 7:38:17 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeSpS0001 - Still Sport\Max\SWom0003-Wa.max
+File Created: 6/19/2018 2:10:54 PM
+Last Edited: 3/27/2014 7:38:17 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeSpS0001 - Still Sport\Max\SWom0004-Ru.max
+File Created: 6/19/2018 2:10:54 PM
+Last Edited: 3/27/2014 7:38:17 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeSpS0001 - Still Sport\Max\SWom0004-Sb.max
+File Created: 6/19/2018 2:10:54 PM
+Last Edited: 3/27/2014 7:38:17 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeSpS0001 - Still Sport\Max\SWom0005-Sb.max
+File Created: 6/19/2018 2:10:54 PM
+Last Edited: 3/27/2014 7:38:17 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\MeSpS0001 - Still Sport\Max\SWom0005-St.max
+File Created: 6/19/2018 2:10:54 PM
+Last Edited: 3/27/2014 7:46:03 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\_BMan0005-HD2-CS\Max 2009_MR\Bman0005-HD2-CS_Full Body_MR.max
+File Created: 6/19/2018 2:11:18 PM
+Last Edited: 3/27/2014 7:53:06 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\_BMan0005-HD2-CS\Max 2009_MR\Bman0005-HD2-CS_Full Body_MR_US.max
+File Created: 6/19/2018 2:11:19 PM
+Last Edited: 3/27/2014 7:53:06 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\_BMan0005-HD2-CS\Max 2009_MR\Bman0005-HD2-CS_MR.max
+File Created: 6/19/2018 2:11:19 PM
+Last Edited: 3/27/2014 7:53:31 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\_BMan0005-HD2-CS\Max 2009_MR\Bman0005-HD2-CS_MR_US.max
+File Created: 6/19/2018 2:11:19 PM
+Last Edited: 3/27/2014 7:53:27 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\_BMan0005-HD2-CS\Max 2009_VRAY\Bman0005-HD2-CS_Full Body_VRAY.max
+File Created: 6/19/2018 2:11:20 PM
+Last Edited: 3/27/2014 7:53:31 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\_BMan0005-HD2-CS\Max 2009_VRAY\Bman0005-HD2-CS_Full Body_VRAY_US.max
+File Created: 6/19/2018 2:11:20 PM
+Last Edited: 3/27/2014 7:52:13 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\_BMan0005-HD2-CS\Max 2009_VRAY\Bman0005-HD2-CS_VRAY.max
+File Created: 6/19/2018 2:11:21 PM
+Last Edited: 3/27/2014 7:53:06 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\_BMan0005-HD2-CS\Max 2009_VRAY\Bman0005-HD2-CS_VRAY_US.max
+File Created: 6/19/2018 2:11:21 PM
+Last Edited: 3/27/2014 7:53:06 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\_BWom0001-HD2-CS\Max 2009_MR\BWom0001-HD2-CS_Full Body_MR.max
+File Created: 6/19/2018 2:11:39 PM
+Last Edited: 3/27/2014 7:53:06 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\_BWom0001-HD2-CS\Max 2009_MR\BWom0001-HD2-CS_Full Body_US_MR.max
+File Created: 6/19/2018 2:11:39 PM
+Last Edited: 3/27/2014 7:53:06 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\_BWom0001-HD2-CS\Max 2009_MR\BWom0001-HD2-CS_MR.max
+File Created: 6/19/2018 2:11:40 PM
+Last Edited: 3/27/2014 7:53:06 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\_BWom0001-HD2-CS\Max 2009_MR\BWom0001-HD2-CS_US_MR.max
+File Created: 6/19/2018 2:11:40 PM
+Last Edited: 3/27/2014 7:51:27 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\_BWom0001-HD2-CS\Max 2009_Vray\BWom0001-HD2-CS_Full Body_US_VRay.max
+File Created: 6/19/2018 2:11:40 PM
+Last Edited: 3/27/2014 7:53:06 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\_BWom0001-HD2-CS\Max 2009_Vray\BWom0001-HD2-CS_Full Body_VRay.max
+File Created: 6/19/2018 2:11:40 PM
+Last Edited: 3/27/2014 7:51:57 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\_BWom0001-HD2-CS\Max 2009_Vray\BWom0001-HD2-CS_US_VRay.max
+File Created: 6/19/2018 2:11:41 PM
+Last Edited: 3/27/2014 7:53:06 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\_BWom0001-HD2-CS\Max 2009_Vray\BWom0001-HD2-CS_VRay.max
+File Created: 6/19/2018 2:11:41 PM
+Last Edited: 3/27/2014 7:51:55 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\_BWom0002-HD2-CS\Max 2009_MR\BWom0002-HD2-CS_Full Body_MR.max
+File Created: 6/19/2018 2:11:48 PM
+Last Edited: 3/27/2014 7:53:06 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\_BWom0002-HD2-CS\Max 2009_MR\BWom0002-HD2-CS_Full Body_US_MR.max
+File Created: 6/19/2018 2:11:48 PM
+Last Edited: 3/27/2014 7:53:06 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\_BWom0002-HD2-CS\Max 2009_MR\BWom0002-HD2-CS_MR.max
+File Created: 6/19/2018 2:11:48 PM
+Last Edited: 3/27/2014 7:53:31 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\_BWom0002-HD2-CS\Max 2009_MR\BWom0002-HD2-CS_US_MR.max
+File Created: 6/19/2018 2:11:48 PM
+Last Edited: 3/27/2014 7:53:06 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\_BWom0002-HD2-CS\Max 2009_VRay\BWom0002-HD2-CS_Full Body_US_VRay.max
+File Created: 6/19/2018 2:11:49 PM
+Last Edited: 3/27/2014 7:51:14 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\_BWom0002-HD2-CS\Max 2009_VRay\BWom0002-HD2-CS_Full Body_VRay.max
+File Created: 6/19/2018 2:11:49 PM
+Last Edited: 3/27/2014 7:53:06 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\_BWom0002-HD2-CS\Max 2009_VRay\BWom0002-HD2-CS_US_VRay.max
+File Created: 6/19/2018 2:11:49 PM
+Last Edited: 3/27/2014 7:53:06 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\_BWom0002-HD2-CS\Max 2009_VRay\BWom0002-HD2-CS_VRay.max
+File Created: 6/19/2018 2:11:49 PM
+Last Edited: 3/27/2014 7:49:39 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\_BWom0003-HD2-CS\Max 2009_MR\BWom0003-HD2-CS_Full Body_MR.max
+File Created: 6/19/2018 2:11:54 PM
+Last Edited: 3/27/2014 7:53:06 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\_BWom0003-HD2-CS\Max 2009_MR\BWom0003-HD2-CS_Full Body_US_MR.max
+File Created: 6/19/2018 2:11:54 PM
+Last Edited: 3/27/2014 7:53:06 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\_BWom0003-HD2-CS\Max 2009_MR\BWom0003-HD2-CS_MR.max
+File Created: 6/19/2018 2:11:55 PM
+Last Edited: 3/27/2014 7:52:18 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\_BWom0003-HD2-CS\Max 2009_MR\BWom0003-HD2-CS_US_MR.max
+File Created: 6/19/2018 2:11:55 PM
+Last Edited: 3/27/2014 7:53:06 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\_BWom0003-HD2-CS\Max 2009_VRay\BWom0003-HD2-CS_Full Body_US_VRay.max
+File Created: 6/19/2018 2:11:55 PM
+Last Edited: 3/27/2014 7:53:06 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\_BWom0003-HD2-CS\Max 2009_VRay\BWom0003-HD2-CS_Full Body_VRay.max
+File Created: 6/19/2018 2:11:55 PM
+Last Edited: 3/27/2014 7:53:06 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\_BWom0003-HD2-CS\Max 2009_VRay\BWom0003-HD2-CS_US_VRay.max
+File Created: 6/19/2018 2:11:55 PM
+Last Edited: 3/27/2014 7:53:06 AM
+File Name:I:\VIZ\4_Library\3D People\AXYZ Design - People & Motion Capture Data\_BWom0003-HD2-CS\Max 2009_VRay\BWom0003-HD2-CS_VRay.max
+File Created: 6/19/2018 2:11:56 PM
+Last Edited: 3/27/2014 7:52:27 AM

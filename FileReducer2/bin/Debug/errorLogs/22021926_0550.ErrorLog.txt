@@ -1,0 +1,17 @@
+-----------------------------------------------------------------------------
+File Name:I:\VIZ\1_Projects\07046 Revesz-Hamburger Residence\90_Archive\max\_process\07046-3DMODEL_2009.03.17.max
+Exception: 
+System.IO.IOException: Cannot perform this function on a stream that does not exist.
+   at System.IO.Packaging.StorageInfo.GetStreamInfo(String name)
+   at FileReducer2.Form1.fileScanner(String fileName) in C:\IBI\Apps\Apps\FileReducer2 - Copy\FileReducer2\Form1.cs:line 622
+   at FileReducer2.Form1.ProcessDirectory(String targetDirectory, Int32 currentNum, Int32 totalNum, Int64 compressionLevel) in C:\IBI\Apps\Apps\FileReducer2 - Copy\FileReducer2\Form1.cs:line 493
+-----------------------------------------------------------------------------
+File Name:I:\VIZ\1_Projects\112092_Confed_Line\5.0 Current\1.0_MAX_Queensview\4.0 Archive\2018-07-24\1.5 Xref Max\X-REF_Queensview_Context.max
+Exception: 
+System.Runtime.InteropServices.COMException (0x80030109): The docfile has been corrupted. (Exception from HRESULT: 0x80030109)
+   at MS.Internal.IO.Packaging.CompoundFile.UnsafeNativeCompoundFileMethods.UnsafeNativeIStream.Read(Byte[] pv, Int32 cb, Int32& pcbRead)
+   at MS.Internal.IO.Packaging.CompoundFile.SafeNativeCompoundFileMethods.SafeIStreamImplementation.MS.Internal.IO.Packaging.CompoundFile.IStream.Read(Byte[] pv, Int32 cb, Int32& pcbRead)
+   at MS.Internal.IO.Packaging.CompoundFile.CFStream.Read(Byte[] buffer, Int32 offset, Int32 count)
+   at System.IO.BufferedStream.Read(Byte[] array, Int32 offset, Int32 count)
+   at FileReducer2.Form1.fileScanner(String fileName) in C:\IBI\Apps\Apps\FileReducer2 - Copy\FileReducer2\Form1.cs:line 638
+   at FileReducer2.Form1.ProcessDirectory(String targetDirectory, Int32 currentNum, Int32 totalNum, Int64 compressionLevel) in C:\IBI\Apps\Apps\FileReducer2 - Copy\FileReducer2\Form1.cs:line 493

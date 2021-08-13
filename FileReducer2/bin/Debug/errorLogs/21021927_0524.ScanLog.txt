@@ -1,0 +1,30 @@
+Infected Files:
+File Name:D:\Users\andrew.hart\Desktop\test\rp_stephen_posed_040_30k_vray bad.max
+File Name:D:\Users\andrew.hart\Desktop\test\200 Proxy Low\badcode.max
+File Name:D:\Users\andrew.hart\Desktop\test\AXYZ Design - People & Motion Capture Data\rp_stephen_posed_040_30k_vray bad.max
+File Name:D:\Users\andrew.hart\Desktop\test\AXYZ Design - People & Motion Capture Data\AXYZ - MeBuS0002 (People Business)\Max\BMan0006-Se.max
+File Name:D:\Users\andrew.hart\Desktop\test\AXYZ Design - People & Motion Capture Data\AXYZ - MeBuS0002 (People Business)\Max\BMan0006-St.max
+File Name:D:\Users\andrew.hart\Desktop\test\AXYZ Design - People & Motion Capture Data\AXYZ - MeBuS0002 (People Business)\Max\BMan0007-Se.max
+File Name:D:\Users\andrew.hart\Desktop\test\AXYZ Design - People & Motion Capture Data\AXYZ - MeBuS0002 (People Business)\Max\BMan0007-Wa.max
+File Name:D:\Users\andrew.hart\Desktop\test\AXYZ Design - People & Motion Capture Data\AXYZ - MeBuS0002 (People Business)\Max\BMan0008-Se.max
+File Name:D:\Users\andrew.hart\Desktop\test\AXYZ Design - People & Motion Capture Data\AXYZ - MeBuS0002 (People Business)\Max\BMan0008-St.max
+File Name:D:\Users\andrew.hart\Desktop\test\AXYZ Design - People & Motion Capture Data\AXYZ - MeBuS0002 (People Business)\Max\BMan0009-Se.max
+File Name:D:\Users\andrew.hart\Desktop\test\AXYZ Design - People & Motion Capture Data\AXYZ - MeBuS0002 (People Business)\Max\BMan0009-St.max
+File Name:D:\Users\andrew.hart\Desktop\test\AXYZ Design - People & Motion Capture Data\AXYZ - MeBuS0002 (People Business)\Max\BMan0010-Se.max
+File Name:D:\Users\andrew.hart\Desktop\test\AXYZ Design - People & Motion Capture Data\AXYZ - MeBuS0002 (People Business)\Max\BMan0010-St.max
+File Name:D:\Users\andrew.hart\Desktop\test\AXYZ Design - People & Motion Capture Data\AXYZ - MeBuS0002 (People Business)\Max\BWom0006-Se.max
+File Name:D:\Users\andrew.hart\Desktop\test\AXYZ Design - People & Motion Capture Data\AXYZ - MeBuS0002 (People Business)\Max\BWom0006-Wa.max
+File Name:D:\Users\andrew.hart\Desktop\test\AXYZ Design - People & Motion Capture Data\AXYZ - MeBuS0002 (People Business)\Max\BWom0007-St.max
+File Name:D:\Users\andrew.hart\Desktop\test\AXYZ Design - People & Motion Capture Data\AXYZ - MeBuS0002 (People Business)\Max\BWom0007-Wa.max
+File Name:D:\Users\andrew.hart\Desktop\test\AXYZ Design - People & Motion Capture Data\AXYZ - MeBuS0002 (People Business)\Max\BWom0008-Se.max
+File Name:D:\Users\andrew.hart\Desktop\test\AXYZ Design - People & Motion Capture Data\AXYZ - MeBuS0002 (People Business)\Max\BWom0008-Wa.max
+File Name:D:\Users\andrew.hart\Desktop\test\AXYZ Design - People & Motion Capture Data\AXYZ - MeBuS0002 (People Business)\Max\BWom0009-St.max
+File Name:D:\Users\andrew.hart\Desktop\test\AXYZ Design - People & Motion Capture Data\AXYZ - MeBuS0002 (People Business)\Max\BWom0009-Wa.max
+File Name:D:\Users\andrew.hart\Desktop\test\AXYZ Design - People & Motion Capture Data\AXYZ - MeBuS0002 (People Business)\Max\BWom0010-St.max
+File Name:D:\Users\andrew.hart\Desktop\test\AXYZ Design - People & Motion Capture Data\AXYZ - MeBuS0002 (People Business)\Max\BWom0010-Wa.max
+File Name:D:\Users\andrew.hart\Desktop\test\AXYZ Design - People & Motion Capture Data\AXYZ - MeBuS0002 (People Business)\Max\Copier0001.max
+-----------------------------------------------------------
+Summary:
+Total Files Scanned: 242
+Clean Files Detected: 218
+Infected Files Detected: 24

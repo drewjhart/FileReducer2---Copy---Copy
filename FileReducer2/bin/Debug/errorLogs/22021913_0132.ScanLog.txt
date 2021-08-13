@@ -1,0 +1,7 @@
+Infected Files:
+-----------------------------------------------------------
+Summary:
+Total Files Scanned: 0
+Clean Files Detected: 0
+Infected Files Detected: 0
+Errored Files Detected: 0
